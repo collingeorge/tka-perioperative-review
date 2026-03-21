@@ -1,32 +1,35 @@
 cff-version: 1.2.0
-message: "If you reference this work, please cite it as below."
-type: article
+title: "TKA Perioperative Analgesic Review"
+message: "If you use this repository, please cite it using the information below."
 authors:
   - family-names: George
     given-names: Collin Blaine
-    affiliation: "University of Washington, Department of Laboratory Medicine and Pathology"
     orcid: "https://orcid.org/0009-0007-8162-6839"
-title: "Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement"
 version: "2.0"
 date-released: "2026-03-21"
-url: "https://github.com/collingeorge/tka-perioperative-review"
-repository-code: "https://github.com/collingeorge/tka-perioperative-review"
-abstract: "A scoping review conducted in accordance with JBI scoping review methodology and reported per PRISMA-ScR. Maps and synthesizes evidence across five perioperative analgesic decision domains in adults undergoing primary total knee arthroplasty: anesthesia modality, regional analgesic technique, adjuvant pharmacology, patient risk stratification, and outcome measurement. Includes evidence gap analysis for robot-assisted TKA. 60 sources included. Search conducted through March 21, 2026."
-keywords:
-  - "total knee arthroplasty"
-  - "scoping review"
-  - "PRISMA-ScR"
-  - "JBI"
-  - "robot-assisted TKA"
-  - "adductor canal block"
-  - "IPACK block"
-  - "opioid-free anesthesia"
-  - "ERAS"
-  - "perioperative analgesia"
-  - "patient-reported outcomes"
-  - "KOOS"
-  - "PROMIS"
-  - "MCID"
-  - "pain catastrophizing"
-  - "risk stratification"
 license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/tka-perioperative-review"
+keywords:
+  - total knee arthroplasty
+  - scoping review
+  - PRISMA-ScR
+  - JBI
+  - robot-assisted TKA
+  - adductor canal block
+  - IPACK block
+  - opioid-free anesthesia
+  - perioperative analgesia
+  - patient-reported outcomes
+  - KOOS
+  - PROMIS
+  - MCID
+  - pain catastrophizing
+  - risk stratification
+preferred-citation:
+  type: article
+  authors:
+    - family-names: George
+      given-names: Collin Blaine
+  title: "Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement"
+  year: 2026
+  url: "https://github.com/collingeorge/tka-perioperative-review"
