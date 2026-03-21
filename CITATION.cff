@@ -1,14 +1,16 @@
 cff-version: 1.2.0
 message: "If you reference this work, please cite it as below."
-type: "dataset"
+type: "article"
 authors:
   - family-names: "George"
     given-names: "Collin Blaine"
     affiliation: "University of Washington, Department of Laboratory Medicine and Pathology"
+    orcid: "https://orcid.org/0009-0007-8162-6839"
 title: "Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement"
 version: 2.0
 date-released: 2026-03-21
 url: "https://github.com/collingeorge/tka-perioperative-review"
+repository-code: "https://github.com/collingeorge/tka-perioperative-review"
 abstract: >
   A scoping review conducted in accordance with JBI scoping review methodology
   and reported per PRISMA-ScR. Maps and synthesizes evidence across five
@@ -35,3 +37,7 @@ keywords:
   - "pain catastrophizing"
   - "risk stratification"
 license: "CC-BY-4.0"
+identifiers:
+  - type: "other"
+    value: "MEDRXIV/2026/348976"
+    description: "medRxiv submission ID (DOI pending)"
