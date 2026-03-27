@@ -4,7 +4,7 @@
 
 **Collin Blaine George**
 
-*Independent Researcher, Seattle, Washington*
+*University of Washington, Department of Laboratory Medicine, Seattle, Washington*
 
 *March 2026*
 
