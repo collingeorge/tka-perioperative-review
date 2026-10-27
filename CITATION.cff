@@ -1,35 +1,11 @@
 cff-version: 1.2.0
-title: "TKA Perioperative Analgesic Review"
-message: "If you use this repository, please cite it using the information below."
+message: "Review candidate; not a peer-reviewed or clinically validated publication. Cite the version actually used."
+title: "TKA Perioperative Analgesia: Review Draft"
 authors:
   - family-names: George
-    given-names: Collin Blaine
+    given-names: Collin B.
     orcid: "https://orcid.org/0009-0007-8162-6839"
-version: "2.0"
-date-released: "2026-03-21"
+version: "2026.10-rc1"
 license: "CC-BY-4.0"
+url: "https://github.com/collingeorge/tka-perioperative-review"
 repository-code: "https://github.com/collingeorge/tka-perioperative-review"
-keywords:
-  - total knee arthroplasty
-  - scoping review
-  - PRISMA-ScR
-  - JBI
-  - robot-assisted TKA
-  - adductor canal block
-  - IPACK block
-  - opioid-free anesthesia
-  - perioperative analgesia
-  - patient-reported outcomes
-  - KOOS
-  - PROMIS
-  - MCID
-  - pain catastrophizing
-  - risk stratification
-preferred-citation:
-  type: article
-  authors:
-    - family-names: George
-      given-names: Collin Blaine
-  title: "Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement"
-  year: 2026
-  url: "https://github.com/collingeorge/tka-perioperative-review"

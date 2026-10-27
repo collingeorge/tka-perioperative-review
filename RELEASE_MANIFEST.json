@@ -1,0 +1,75 @@
+{
+  "candidate": "2026.10-rc1",
+  "public_release": false,
+  "history_included": false,
+  "history_audited": false,
+  "secret_scan_scope": "Listed current files only; three high-confidence patterns. Not a full credential, PHI, copyright, or clinical audit.",
+  "findings": [],
+  "files": [
+    {
+      "path": "01_Regional_Anesthesia_ACB_IPACK.md",
+      "bytes": 1357,
+      "sha256": "43e67c6d7d15ef64ff96e945b65eee3c0419725b5f2a2fb4b53bf3d0cf21d3ca"
+    },
+    {
+      "path": "02_Opioid_Free_Anesthesia_TKA.md",
+      "bytes": 25338,
+      "sha256": "06f6f2c6a0d046e41eed583641d5ccf7a24acbf003834f8381050131ff09b36f"
+    },
+    {
+      "path": "03_Patient_Reported_Outcomes_TKA.md",
+      "bytes": 24583,
+      "sha256": "d5a1bd552fcced30691c2d8f9a9c20d96c9675c3bedc8c14a763dd20350e8bc6"
+    },
+    {
+      "path": "04_Spinal_vs_General_Anesthesia_TKA.md",
+      "bytes": 27772,
+      "sha256": "1f22861b6509dfdc29328732aa06752e5f6f6b5cf03a3a8491337b8744277139"
+    },
+    {
+      "path": "05_Chronic_Pain_Opioid_Risk_Stratification_TKA.md",
+      "bytes": 28164,
+      "sha256": "ee36365161739c48114af29d1e2e1f00c509c72786b233e9776777c4307858d9"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 484,
+      "sha256": "172859f745e35776ee51d7272c847d4249a52fb9448ea91c4e4f9d9c0b583b1e"
+    },
+    {
+      "path": "DOCUMENT_BUILD.json",
+      "bytes": 422,
+      "sha256": "d510f8e5a1ba567288350342eaf2547895536d339e786370610f83b0fb22ec0c"
+    },
+    {
+      "path": "George-TKA-Scoping-Review-v2.md",
+      "bytes": 69112,
+      "sha256": "f98d6810f6062d41faa9c5e2771155ef753ffd5809fa6f2ad19e01585e2a5ae8"
+    },
+    {
+      "path": "George-TKA-Scoping-Review-v2.pdf",
+      "bytes": 168777,
+      "sha256": "36ef269ab7726f92997b9be6dcb7ab3aaf4e2b69d01caec7d6a5b7c6fee3a4e4"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1182,
+      "sha256": "d6f6e87042d063d129938ecd5705374b0d5fa0afd7f85a6d0a609e91cf354af8"
+    },
+    {
+      "path": "PUBLICATION_REVIEW.md",
+      "bytes": 2486,
+      "sha256": "e3c5ab0ec3ff5fc0ebce4811cf71bdbc4e74f815e7648be0d7644658d5d7db15"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8577,
+      "sha256": "8ffb52e603a070a84e2288262f5c04a16eac22bab2b0df3dd219ab91563b9f95"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 564,
+      "sha256": "3ada0b7591d4bcd1d1ed5624033c2f372e233e20ead4d79b82495c4b3bba2c61"
+    }
+  ]
+}
