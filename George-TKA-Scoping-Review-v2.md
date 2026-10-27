@@ -1,10 +1,12 @@
+> **Review draft — 27 October 2026.** The original pooled-analysis claims are withdrawn pending verification. Informal evidence categories are not formal GRADE assessments. Remaining study-level statements and citations require audit before submission or clinical interpretation. The older PDF is superseded and has not been rebuilt.
+
 # Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement
 
 *With evidence gap analysis for robot-assisted total knee arthroplasty*
 
 **Collin Blaine George**
 
-*University of Washington, Department of Laboratory Medicine, Seattle, Washington*
+*Independent educational portfolio*
 
 *March 2026*
 
@@ -32,11 +34,11 @@
 
 **Information sources:** PubMed/MEDLINE searched through March 21, 2026, supplemented by targeted retrieval of guideline documents from ERAS Society, AAHKS/AAOS/ASRA, ASA, and ASA Task Force publications, and backward reference tracking from foundational systematic reviews and meta-analyses.
 
-**Selection and charting:** Single-reviewer title/abstract screening and full-text assessment. Data were charted by decision domain, study design, population, intervention, comparator, and outcome. Evidence quality was assessed using a GRADE-based interpretive overlay.
+**Selection and charting:** Single-reviewer title/abstract screening and full-text assessment. Data were charted by decision domain, study design, population, intervention, comparator, and outcome. Evidence quality was assessed using a informal author-assigned evidence categories (not a formal GRADE assessment).
 
-**Results:** Sixty sources were included across five decision domains. An original random-effects meta-analysis (DerSimonian-Laird) was performed pooling five RCTs (n=345) comparing adductor canal block (ACB) versus femoral nerve block (FNB) on 24-hour morphine consumption and NRS pain at rest. Pooled MD for morphine was +0.74 mg (95% CI −1.78 to +3.25, p=0.565, I²=0.0%), and for NRS pain at rest was −0.07 points (95% CI −0.43 to +0.30, p=0.728, I²=0.0%), confirming ACB non-inferiority to FNB on both outcomes. The strongest evidence (GRADE A) supports ACB over FNB for quadriceps-sparing functional preservation and NSAIDs/COX-2 inhibitors as the highest-evidence adjuvant class. Moderate evidence (GRADE B) supports neuraxial preference for PONV reduction and early opioid exposure attenuation, IPACK addition to ACB for posterior capsular analgesia (NRS MD −1.4, 95% CI −2.1 to −0.7), and ketamine for opioid reduction in opioid-tolerant patients. Low evidence (GRADE C) characterizes neuraxial advantage on thromboembolic and major morbidity endpoints, and IV lidocaine and magnesium as TKA adjuvants. Risk stratification evidence demonstrates strong predictive validity for preoperative opioid use and catastrophizing but weak evidence that pathway modifications improve outcomes in high-risk subgroups. Standard perioperative outcome instruments are inadequately calibrated for high-risk phenotypes. No direct evidence addresses any of these domains in rTKA populations.
+**Results (revision status):** The draft maps five domains but its source count, extraction tables, and original pooled estimates require independent verification. The previous inference of non-inferiority from nonsignificant differences has been withdrawn. No new pooled result is asserted in this revision.
 
-**Conclusion:** The perioperative analgesic literature in TKA contains substantial but fragmented evidence across five clinical decision domains. Risk stratification and outcome measurement are the most evidence-deficient domains relative to their clinical importance. The rTKA evidence gap is total. A risk-stratified, measurement-aware perioperative framework is warranted and should be evaluated prospectively in rTKA-specific controlled trials.
+**Conclusion:** The perioperative analgesic literature in TKA contains substantial but fragmented evidence across five clinical decision domains. Risk stratification and outcome measurement are the most evidence-deficient domains relative to their clinical importance. Direct rTKA evidence was not established by the documented search. A risk-stratified, measurement-aware perioperative framework is warranted and should be evaluated prospectively in rTKA-specific controlled trials.
 
 **Keywords:** total knee arthroplasty; scoping review; perioperative analgesia; adductor canal block; IPACK; opioid-free anesthesia; pain catastrophizing; patient-reported outcomes; MCID; robot-assisted arthroplasty; PRISMA-ScR
 
@@ -58,7 +60,7 @@ This scoping review was conducted in accordance with JBI scoping review methodol
 
 ### 2.1 Review Design
 
-This is a scoping review following JBI guidance for scoping reviews. The purpose is to map and synthesize the nature and scope of evidence for perioperative analgesic strategies across five clinical decision domains in TKA, not to conduct a pooled meta-analysis or provide a systematic assessment of all available studies on any single intervention. In accordance with JBI scoping review methodology, formal risk-of-bias scoring was not performed because the objective was evidence mapping and structured synthesis across decision domains rather than pooled effect estimation. A GRADE-based interpretive overlay was applied to the mapped evidence to characterize relative evidence quality across included source types; this overlay is supplementary to the scoping framework, not a replacement for it.
+This is a scoping review following JBI guidance for scoping reviews. The purpose is to map and synthesize the nature and scope of evidence for perioperative analgesic strategies across five clinical decision domains in TKA, not to conduct a pooled meta-analysis or provide a systematic assessment of all available studies on any single intervention. In accordance with JBI scoping review methodology, formal risk-of-bias scoring was not performed because the objective was evidence mapping and structured synthesis across decision domains rather than pooled effect estimation. A informal author-assigned evidence categories (not a formal GRADE assessment) was applied to the mapped evidence to characterize relative evidence quality across included source types; this overlay is supplementary to the scoping framework, not a replacement for it.
 
 ### 2.2 Review Question
 
@@ -131,7 +133,7 @@ A standardized data charting form was applied to each included source. The follo
 
 ### 2.8 Synthesis
 
-Included sources were synthesized by perioperative decision domain. Within each domain, evidence was organized by study design hierarchy, with systematic reviews and meta-analyses as the primary synthesis source and individual RCTs cited where foundational evidence has not yet been superseded by higher-level synthesis. An original random-effects meta-analysis was performed for the adductor canal block (ACB) versus femoral nerve block (FNB) comparison, pooling individual RCT aggregate data using the DerSimonian-Laird method on two outcomes: 24-hour morphine consumption and 24-hour NRS pain at rest. Results are reported in Section 8.5. A GRADE-based interpretive overlay was applied as a supplementary characterization of evidence quality within each domain; GRADE grades are interpretive designations applied to mapped evidence and are not the primary organizational method of the review. Evidence gaps and portability implications for robot-assisted TKA are reported separately for each domain under a dedicated subsection; all rTKA-specific conclusions are designated EVIDENCE GAP — ANALYTICALLY INFERRED to clearly distinguish inference from established evidence.
+Included sources were synthesized by perioperative decision domain. Within each domain, evidence was organized by study design hierarchy, with systematic reviews and meta-analyses as the primary synthesis source and individual RCTs cited where foundational evidence has not yet been superseded by higher-level synthesis. The earlier original pooling is withdrawn pending verification; this revision reports no new quantitative synthesis.
 
 ---
 
@@ -143,7 +145,7 @@ Included sources for this domain: 10 studies and guideline documents (Table 1). 
 
 **Table 1. Evidence map — Anesthesia modality domain**
 
-| Source | Design | N | Primary endpoint | GRADE | Key finding |
+| Source | Design | N | Primary endpoint | Informal category | Key finding |
 |---|---|---|---|---|---|
 | Wainwright et al. 2020³ | Guideline (ERAS Society) | — | Modality recommendation | B | Neuraxial preferred where not contraindicated |
 | Johnson et al. 2016⁵ | Systematic review/MA | Mixed THA/TKA | PONV, functional outcomes | B | No statistically significant PONV difference in pooled analysis |
@@ -160,9 +162,9 @@ Included sources for this domain: 10 studies and guideline documents (Table 1). 
 
 The ERAS Society guidelines³ recommend neuraxial anesthesia as the preferred modality where not contraindicated. The evidence underlying this recommendation stratifies into three tiers of quality.
 
-The mechanistically favoured tier — PONV reduction and early opioid exposure attenuation — carries GRADE B support. The proposed mechanism (elimination of volatile anesthetic and intraoperative opioid as Apfel risk factors⁴) is robust and platform-independent. The best available comparative synthesis (Johnson et al.⁵) found no statistically significant difference in pooled PONV incidence, indicating that the mechanism-based advantage is attenuated in antiemetic-treated contemporary pathways. Intrathecal morphine (ITM) reduces 24-hour opioid consumption (Gonvers et al.⁶, GRADE B) but imposes a monitoring burden⁷ that conflicts with short-stay ERAS protocols.
+The mechanistically favoured tier — PONV reduction and early opioid exposure attenuation — carries informal category B support. The proposed mechanism (elimination of volatile anesthetic and intraoperative opioid as Apfel risk factors⁴) is robust and platform-independent. The best available comparative synthesis (Johnson et al.⁵) found no statistically significant difference in pooled PONV incidence, indicating that the mechanism-based advantage is attenuated in antiemetic-treated contemporary pathways. Intrathecal morphine (ITM) reduces 24-hour opioid consumption (Gonvers et al.⁶, informal category B) but imposes a monitoring burden⁷ that conflicts with short-stay ERAS protocols.
 
-The qualified tier — blood loss and transfusion reduction — carries GRADE B evidence that is era-dependent and probably attenuated in contemporary TXA-standardized practice⁹.
+The qualified tier — blood loss and transfusion reduction — carries informal category B evidence that is era-dependent and probably attenuated in contemporary TXA-standardized practice⁹.
 
 The weak-evidence tier — thromboembolic risk, major morbidity, mortality, and POCD — does not carry controlled evidence of the quality required to support confident claims. Observational data (Memtsoudis et al.¹⁰) are directionally consistent but structurally confounded; the REGAIN trial¹¹ found no significant major outcome differences by modality under controlled conditions.
 
@@ -186,7 +188,7 @@ Included sources for this domain: 11 studies (Table 2). Study designs: 2 foundat
 
 **Table 2. Evidence map — Regional analgesia domain**
 
-| Source | Design | N | Primary endpoint | GRADE | Key finding |
+| Source | Design | N | Primary endpoint | Informal category | Key finding |
 |---|---|---|---|---|---|
 | Jæger et al. 2013¹⁵ | RCT | 48 | Pain, quadriceps strength, TUG | A | ACB non-inferior NRS; superior quadriceps preservation |
 | Shah & Jain 2014¹⁶ | RCT | 60 | Function, pain | A | Continuous ACB non-inferior to continuous FNB on pain; better function |
@@ -202,13 +204,13 @@ Included sources for this domain: 11 studies (Table 2). Study designs: 2 foundat
 
 ### 4.2 Principal Findings
 
-ACB provides non-inferior analgesia to FNB for anterior compartment pain at 24–48 hours with a significant quadriceps-sparing advantage (GRADE A, consistent across multiple RCTs and a Cochrane-level meta-analysis¹⁷). This evidence base supports ACB as the preferred peripheral nerve strategy over FNB when early ambulation is a pathway priority. The evidence does not establish ACB superiority on 90-day functional outcomes, KOOS or WOMAC at 6 weeks, or fall incidence.
+ACB provides non-inferior analgesia to FNB for anterior compartment pain at 24–48 hours with a significant quadriceps-sparing advantage (informal category A, consistent across multiple RCTs and a Cochrane-level meta-analysis¹⁷). This evidence base supports ACB as the preferred peripheral nerve strategy over FNB when early ambulation is a pathway priority. The evidence does not establish ACB superiority on 90-day functional outcomes, KOOS or WOMAC at 6 weeks, or fall incidence.
 
-IPACK addition to ACB reduces posterior knee pain and oral MME consumption at 24–48 hours in TKA patients receiving multimodal analgesia including LIA/PAI (GRADE B, consistent across three independent meta-analyses²⁰˒²¹˒²²). A critical qualification applies: the primary meta-analytic evidence for IPACK was generated in LIA co-administration contexts; additive benefit in populations not receiving PAI/LIA is not directly established.
+IPACK addition to ACB reduces posterior knee pain and oral MME consumption at 24–48 hours in TKA patients receiving multimodal analgesia including LIA/PAI (informal category B, consistent across three independent meta-analyses²⁰˒²¹˒²²). A critical qualification applies: the primary meta-analytic evidence for IPACK was generated in LIA co-administration contexts; additive benefit in populations not receiving PAI/LIA is not directly established.
 
-PAI is an evidence-supported analgesic strategy with GRADE B–C evidence for opioid reduction and non-inferiority versus ACB on anterior pain; PAI and ACB-plus-IPACK address partially distinct anatomical targets and are potentially complementary.
+PAI is an evidence-supported analgesic strategy with informal category B–C evidence for opioid reduction and non-inferiority versus ACB on anterior pain; PAI and ACB-plus-IPACK address partially distinct anatomical targets and are potentially complementary.
 
-Perineural dexamethasone extends peripheral nerve block duration by 6–8 hours (GRADE B); ACB-specific data are limited relative to the broader peripheral nerve block literature.
+Perineural dexamethasone extends peripheral nerve block duration by 6–8 hours (informal category B); ACB-specific data are limited relative to the broader peripheral nerve block literature.
 
 ### 4.3 Key Evidence Gaps
 
@@ -230,7 +232,7 @@ Included sources for this domain: 16 studies and guideline documents (Table 3). 
 
 **Table 3. Evidence map — Adjuvant pharmacology domain**
 
-| Agent | Primary source(s) | Design | GRADE | Key finding |
+| Agent | Primary source(s) | Design | Informal category | Key finding |
 |---|---|---|---|---|
 | NSAIDs/COX-2 | Fillingham et al. 2020³¹ | Guideline SR (AAHKS/AAOS/ASRA) | A | "Strong evidence" for opioid-sparing and pain reduction; PRECISION³² establishes COX-2 cardiovascular safety |
 | Ketamine | Hannon et al. 2023²⁴; Schwenk et al. 2021²⁶ | Guideline SR; clinical review | B | Reduces 24-hr MME; strongest effect in opioid-tolerant patients; ceiling effect in opioid-naive neuraxial pathway |
@@ -242,7 +244,7 @@ Included sources for this domain: 16 studies and guideline documents (Table 3). 
 
 ### 5.2 Principal Findings
 
-The evidence gradient across adjuvant agents is pronounced. NSAIDs and COX-2 inhibitors carry the strongest evidence (GRADE A) supported by a guideline-grade systematic review and an adequately powered cardiovascular safety trial. Ketamine (GRADE B), dexamethasone (GRADE B), dexmedetomidine (GRADE B), and IV acetaminophen (GRADE B) are each supported by arthroplasty-specific meta-analytic evidence. IV lidocaine and magnesium (both GRADE C) lack TKA-specific controlled evidence against a contemporary neuraxial-plus-block comparator.
+The evidence gradient across adjuvant agents is pronounced. NSAIDs and COX-2 inhibitors carry the strongest evidence (informal category A) supported by a guideline-grade systematic review and an adequately powered cardiovascular safety trial. Ketamine (informal category B), dexamethasone (informal category B), dexmedetomidine (informal category B), and IV acetaminophen (informal category B) are each supported by arthroplasty-specific meta-analytic evidence. IV lidocaine and magnesium (both informal category C) lack TKA-specific controlled evidence against a contemporary neuraxial-plus-block comparator.
 
 A critical interpretive issue applies across this domain: the ceiling effect problem. The benefit of any individual adjuvant agent is highest when background analgesic coverage is lowest, and is attenuated when neuraxial anesthesia and regional block techniques are already providing near-complete coverage of the relevant pain generators. Effect sizes from OFA trials conducted without regional block coverage are not directly portable to contemporary neuraxial-plus-ACB pathways. This interpretive constraint is not consistently acknowledged in the primary OFA trial literature and constitutes a systematic bias in the available evidence base for this domain.
 
@@ -268,7 +270,7 @@ Included sources for this domain: 14 studies (Table 4). Study designs: 3 systema
 
 **Table 4. Evidence map — Risk stratification domain**
 
-| Risk domain | Source(s) | Design | GRADE | Key finding |
+| Risk domain | Source(s) | Design | Informal category | Key finding |
 |---|---|---|---|---|
 | Preoperative opioid use — outcomes | Smith et al. 2017³⁶ | Prospective cohort | A | Preoperative opioid users: significantly worse 6-month pain and function after TKA |
 | Preoperative opioid use — dose-response | Ross et al. 2021³⁷ | Retrospective cohort | A | Dose-dependent worsening: even low daily exposures associated with worse outcomes |
@@ -287,7 +289,7 @@ Included sources for this domain: 14 studies (Table 4). Study designs: 3 systema
 
 ### 6.2 Principal Findings
 
-The mapped evidence establishes five preoperative risk domains with independent predictive validity for worse TKA analgesic outcomes: preoperative opioid use (GRADE A, dose-response established), pain catastrophizing (GRADE B, most consistent predictor across systematic reviews), central sensitization (GRADE B, CPM efficiency as preoperative marker), depression and anxiety (GRADE B, multiple independent prospective cohorts), and sleep disturbance (GRADE B, prospective cohort evidence).
+The mapped evidence establishes five preoperative risk domains with independent predictive validity for worse TKA analgesic outcomes: preoperative opioid use (informal category A, dose-response established), pain catastrophizing (informal category B, most consistent predictor across systematic reviews), central sensitization (informal category B, CPM efficiency as preoperative marker), depression and anxiety (informal category B, multiple independent prospective cohorts), and sleep disturbance (informal category B, prospective cohort evidence).
 
 The risk prediction evidence is substantially stronger than the evidence that specific pathway modifications improve outcomes in identified high-risk subgroups. No controlled trial has enrolled patients stratified by composite risk tier and separately evaluated pathway modification efficacy. The pathway modification framework presented in Section 6.6 is explicitly designated EVIDENCE GAP — ANALYTICALLY INFERRED and represents the most clinically coherent application of available risk prediction data, not an evidence-derived protocol.
 
@@ -347,7 +349,7 @@ Early perioperative milestones — TUG, straight leg raise, first ambulation —
 
 The Patient Global Impression of Change (PGIC) is an underutilized direct patient-anchored validity metric. PGIC functions as a patient-anchored validation metric rather than an instrument-derived proxy — enabling detection of cases where instrument failure, not treatment failure, is producing apparent non-response. Its absence as a co-primary endpoint in most TKA perioperative analgesic trials constitutes a structural gap in the outcome measurement literature.
 
-We interpret with GRADE B confidence that standard MCID thresholds for KOOS and WOMAC are likely to be poorly calibrated and not transportable without recalibration for opioid-tolerant or high-catastrophizing TKA patients.
+We interpret with informal category B confidence that standard MCID thresholds for KOOS and WOMAC are likely to be poorly calibrated and not transportable without recalibration for opioid-tolerant or high-catastrophizing TKA patients.
 
 ### 7.3 Risk-Stratified Measurement Framework — ANALYTICALLY INFERRED
 
@@ -379,7 +381,7 @@ The domain-level evidence maps interactions that are not captured in single-doma
 
 ### 8.2 Evidence Quality Distribution Across Domains
 
-The evidence base is not of uniform quality across the five mapped domains. GRADE A evidence is concentrated in the adjuvant pharmacology domain (NSAIDs/COX-2 inhibitors) and the regional analgesia domain (ACB over FNB for quadriceps preservation). GRADE B evidence predominates across PONV and opioid-sparing for anesthesia modality, IPACK efficacy, ketamine and dexamedetomidine as adjuvants, and risk prediction for all five preoperative risk domains. GRADE C evidence characterizes the thromboembolic and major morbidity claims for neuraxial anesthesia, IV lidocaine and magnesium as adjuvants, and the rTKA portability inferences throughout. The outcome measurement domain is methodological rather than interventional; its evidence maps instrument validity constraints rather than effect sizes.
+The evidence base is not of uniform quality across the five mapped domains. informal category A evidence is concentrated in the adjuvant pharmacology domain (NSAIDs/COX-2 inhibitors) and the regional analgesia domain (ACB over FNB for quadriceps preservation). informal category B evidence predominates across PONV and opioid-sparing for anesthesia modality, IPACK efficacy, ketamine and dexamedetomidine as adjuvants, and risk prediction for all five preoperative risk domains. informal category C evidence characterizes the thromboembolic and major morbidity claims for neuraxial anesthesia, IV lidocaine and magnesium as adjuvants, and the rTKA portability inferences throughout. The outcome measurement domain is methodological rather than interventional; its evidence maps instrument validity constraints rather than effect sizes.
 
 Across all five domains, the evidence for predicting risk is stronger than the evidence for modifying outcomes based on predicted risk. This asymmetry is the most important unresolved gap in the TKA perioperative analgesic literature.
 
@@ -389,47 +391,14 @@ The five mapped domains are architecturally interdependent. The anesthesia modal
 
 ### 8.4 Evidence Gaps and Research Priorities
 
-The rTKA evidence gap is total across all five mapped domains. No RCT or adequately designed observational study has evaluated any perioperative analgesic decision domain with rTKA as a primary platform variable. The three most clinically tractable rTKA research questions generated by the mapped evidence are: (1) does ACB's quadriceps-preservation advantage produce a measurable safety or functional benefit in rTKA ERAS protocols targeting sub-8-hour ambulation that exceeds what has been observed in conventional TKA trials with later mobilization targets? (2) does rTKA's independently lower acute pain burden produce a ceiling effect on NRS-based analgesic endpoints that reduces detectable effect sizes for regional blocks and adjuvants? (3) does the ITM monitoring requirement create a measurable barrier to same-day discharge in rTKA, and if so, does TIVA with IV dexmedetomidine provide a viable PONV risk management alternative?
+Direct rTKA evidence was not established by the documented search across all five mapped domains. No RCT or adequately designed observational study has evaluated any perioperative analgesic decision domain with rTKA as a primary platform variable. The three most clinically tractable rTKA research questions generated by the mapped evidence are: (1) does ACB's quadriceps-preservation advantage produce a measurable safety or functional benefit in rTKA ERAS protocols targeting sub-8-hour ambulation that exceeds what has been observed in conventional TKA trials with later mobilization targets? (2) does rTKA's independently lower acute pain burden produce a ceiling effect on NRS-based analgesic endpoints that reduces detectable effect sizes for regional blocks and adjuvants? (3) does the ITM monitoring requirement create a measurable barrier to same-day discharge in rTKA, and if so, does TIVA with IV dexmedetomidine provide a viable PONV risk management alternative?
 
 Beyond rTKA, the highest-priority evidence gap is risk-stratified controlled trial evidence. The mapped literature establishes that preoperative opioid tolerance, catastrophizing, central sensitization, and psychological comorbidity predict worse analgesic outcomes; it does not establish that pathway modifications targeted to these risk factors improve outcomes in high-risk patients. Controlled trials with pre-specified composite risk stratification, risk-appropriate outcome batteries, and PGIC as a co-primary endpoint would address both the intervention evidence gap and the measurement validity gap simultaneously.
 
-### 8.5 Original Meta-Analysis: ACB Versus FNB for 24-Hour Morphine Consumption and Pain at Rest
+### 8.5 Original pooled analysis: withdrawn pending verification
 
-To provide original quantitative synthesis, a random-effects meta-analysis was performed pooling individual RCT aggregate data on two primary outcomes of the ACB versus FNB comparison: 24-hour morphine consumption (mg) and 24-hour NRS pain at rest (0–10 scale). Five RCTs included in this scoping review reported extractable means and standard deviations for both outcomes and were eligible for pooling: Jæger et al. 2013¹⁵ (n=48), Shah and Jain 2014¹⁶ (n=60), Lim et al. 2018 (n=30), Grevstad et al. 2015 (n=60), and Kim et al. 2014 (n=147). Pooling used the DerSimonian-Laird random-effects model. Mean differences (MD) are expressed as ACB minus FNB; a negative MD indicates lower values in the ACB group.
+The previous calculations are not retained as a verified meta-analysis. A confidence interval crossing zero in a superiority comparison does not establish equivalence or non-inferiority; that requires a justified margin and an appropriate analysis. I-squared near zero does not establish reproducibility, correct extraction, absence of bias, or clinical equivalence. A future quantitative synthesis requires auditable study-level inputs, analysis code, outcome definitions, handling of shared groups and missing variances, and a documented risk-of-bias assessment.
 
-**Outcome 1 — 24-Hour Morphine Consumption (mg)**
-
-| Study | n (ACB/FNB) | ACB mean ± SD | FNB mean ± SD | MD (95% CI) |
-|---|---|---|---|---|
-| Jæger et al. 2013¹⁵ | 24/24 | 26.0 ± 14.0 | 27.0 ± 12.0 | −1.00 (−8.38 to 6.38) |
-| Shah & Jain 2014¹⁶ | 30/30 | 23.5 ± 10.2 | 24.8 ± 11.4 | −1.30 (−6.77 to 4.17) |
-| Lim et al. 2018 | 15/15 | 21.0 ± 11.0 | 20.0 ± 12.0 | +1.00 (−7.24 to 9.24) |
-| Grevstad et al. 2015 | 30/30 | 24.0 ± 13.0 | 22.0 ± 11.0 | +2.00 (−4.09 to 8.09) |
-| Kim et al. 2014 | 72/75 | 25.5 ± 12.5 | 23.8 ± 11.8 | +1.70 (−2.23 to 5.63) |
-| **Pooled (RE)** | **171/174** | | | **+0.74 (−1.78 to 3.25)** |
-
-Pooled MD +0.74 mg (95% CI −1.78 to +3.25), Z=0.58, p=0.565, I²=0.0%, τ²=0.000. The 95% confidence interval crosses zero and is narrow, consistent with ACB non-inferiority to FNB on 24-hour opioid consumption. Heterogeneity is minimal (I²=0.0%), indicating consistent findings across included trials.
-
-**Outcome 2 — 24-Hour NRS Pain at Rest (0–10 Scale)**
-
-| Study | n (ACB/FNB) | ACB mean ± SD | FNB mean ± SD | MD (95% CI) |
-|---|---|---|---|---|
-| Jæger et al. 2013¹⁵ | 24/24 | 2.1 ± 1.8 | 2.4 ± 1.9 | −0.30 (−1.35 to 0.75) |
-| Shah & Jain 2014¹⁶ | 30/30 | 3.2 ± 1.6 | 3.4 ± 1.7 | −0.20 (−1.04 to 0.64) |
-| Lim et al. 2018 | 15/15 | 2.8 ± 1.9 | 2.6 ± 2.0 | +0.20 (−1.20 to 1.60) |
-| Grevstad et al. 2015 | 30/30 | 2.5 ± 1.7 | 2.3 ± 1.6 | +0.20 (−0.64 to 1.04) |
-| Kim et al. 2014 | 72/75 | 3.0 ± 1.8 | 3.1 ± 1.7 | −0.10 (−0.67 to 0.47) |
-| **Pooled (RE)** | **171/174** | | | **−0.07 (−0.43 to 0.30)** |
-
-Pooled MD −0.07 points (95% CI −0.43 to +0.30), Z=−0.35, p=0.728, I²=0.0%, τ²=0.000. No significant difference in 24-hour resting pain between ACB and FNB. The pooled estimate is close to zero with a narrow CI, confirming that the analgesic equivalence of ACB and FNB on resting pain is a consistent finding across the included trials.
-
-**Interpretation:** The original pooled analysis confirms that ACB is non-inferior to FNB on both 24-hour morphine consumption (MD +0.74 mg, 95% CI −1.78 to +3.25, p=0.565) and 24-hour resting NRS pain (MD −0.07 points, 95% CI −0.43 to +0.30, p=0.728). The absence of heterogeneity (I²=0.0% for both outcomes) indicates a stable, reproducible finding across these five trials. This quantitative synthesis is consistent with the GRADE A conclusion in Section 4.2 that ACB provides non-inferior analgesia to FNB, and provides the specific pooled effect size estimates that support that conclusion. The analgesic equivalence, combined with ACB's quadriceps-preservation advantage documented in the Zhao et al. 2017 Cochrane review¹⁷ (quadriceps strength MD = 0.28, 95% CI 0.11 to 0.46, p=0.002), constitutes the evidence basis for ACB as the preferred peripheral nerve strategy in contemporary TKA.
-
-**Methodological note:** Individual RCT data were extracted from published manuscripts. For studies not reporting exact means and SDs in the abstract, values were obtained from full-text tables. This analysis uses DerSimonian-Laird random-effects pooling, which is the standard approach for clinical heterogeneity across small-to-moderate RCTs. The pooled estimates are not intended to supersede the Zhao et al. 2017 Cochrane meta-analysis, which included 10 RCTs; they represent an independent verification using the subset of trials included in this scoping review.
-
-
-
----
 
 ## 9. Limitations
 
@@ -461,11 +430,11 @@ MCID thresholds and PROM responsiveness data are derived from average-risk TKA r
 
 ## 10. Conclusion
 
-This scoping review mapped evidence for perioperative analgesic strategies across five clinical decision domains in adults undergoing primary TKA, performed an original random-effects meta-analysis of five RCTs comparing ACB versus FNB, and characterized evidence gaps relevant to robot-assisted TKA. Sixty sources were included.
+This scoping review mapped evidence for perioperative analgesic strategies across five clinical decision domains in adults undergoing primary TKA, does not retain its earlier original pooling as verified evidence, and characterized evidence gaps relevant to robot-assisted TKA. Sixty sources were included.
 
 The strongest evidence supports ACB over FNB for quadriceps-sparing functional preservation and NSAIDs/COX-2 inhibitors as the highest-evidence adjuvant class. Moderate evidence supports neuraxial preference for PONV reduction and early opioid attenuation, IPACK as a complement to ACB for posterior capsular analgesia, ketamine for opioid-tolerant patients, and dexamethasone as a dual-function analgesic and antiemetic. Low evidence characterizes neuraxial advantage on major morbidity endpoints and IV lidocaine and magnesium as TKA adjuvants. Risk stratification evidence demonstrates strong predictive validity for preoperative opioid use and catastrophizing but weak evidence that pathway modifications improve outcomes in high-risk subgroups. Standard perioperative outcome instruments are inadequately calibrated for high-risk phenotypes, and the outcome measurement literature systematically lacks the patient-anchored validation infrastructure needed to separate instrument failure from treatment failure in stratified populations.
 
-The rTKA evidence gap is total across all five domains. Conclusions regarding rTKA drawn in this review are evidence-gap inferences, not established findings.
+Direct rTKA evidence was not established by the documented search across all five domains. Conclusions regarding rTKA drawn in this review are evidence-gap inferences, not established findings.
 
 Two research priorities emerge from the mapped evidence: controlled trials with pre-specified composite risk stratification and risk-appropriate outcome batteries in conventional TKA, and platform-specific controlled trials in rTKA incorporating the layered analgesic framework mapped here. Until such evidence exists, the five-domain framework developed in this review represents a structured evidence synthesis that is more comprehensive than any single-domain review and more explicitly bounded in its inferences than current clinical practice guidelines.
 

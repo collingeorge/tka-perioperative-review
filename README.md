@@ -9,6 +9,10 @@
 
 ---
 
+## Review status
+
+This is a draft requiring a citation and methods audit. Its prior original pooled analysis cannot establish non-inferiority from a nonsignificant superiority test. No prespecified non-inferiority margin is documented. Informal A/B/C labels are not formal GRADE assessments. See [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md).
+
 ## Overview
 
 This repository contains a scoping review of perioperative analgesic strategy in total knee arthroplasty (TKA), conducted in accordance with **JBI scoping review methodology** and reported per the **PRISMA extension for Scoping Reviews (PRISMA-ScR)**.
@@ -44,11 +48,11 @@ The scoping review was developed from five domain-specific evidence reviews. The
 
 | File | Domain | Central Finding |
 |---|---|---|
-| [01 — Regional Anesthesia: ACB, IPACK, and Functional Preservation](01_Regional_Anesthesia_ACB_IPACK.md) | Regional analgesia | ACB non-inferior to FNB on pain; GRADE A quadriceps-preservation advantage; IPACK adds posterior capsular coverage (GRADE B) |
-| [02 — Opioid-Free Intraoperative Anesthesia](02_Opioid_Free_Anesthesia_TKA.md) | Adjuvant pharmacology | NSAIDs/COX-2 GRADE A; ketamine GRADE B (strongest in opioid-tolerant patients); ceiling effect problem invalidates bundle-level OFA evidence in neuraxial-plus-block pathways |
+| [01 — Regional Anesthesia: ACB, IPACK, and Functional Preservation](01_Regional_Anesthesia_ACB_IPACK.md) | Regional analgesia | ACB non-inferior to FNB on pain; informal category A quadriceps-preservation advantage; IPACK adds posterior capsular coverage (informal category B) |
+| [02 — Opioid-Free Intraoperative Anesthesia](02_Opioid_Free_Anesthesia_TKA.md) | Adjuvant pharmacology | NSAIDs/COX-2 informal category A; ketamine informal category B (strongest in opioid-tolerant patients); ceiling effect problem invalidates bundle-level OFA evidence in neuraxial-plus-block pathways |
 | [03 — Patient-Reported Outcomes and Functional Recovery Measurement](03_Patient_Reported_Outcomes_TKA.md) | Outcome measurement | KOOS/WOMAC MCID thresholds poorly calibrated for high-risk phenotypes; PGIC underutilized as patient-anchored validity check |
-| [04 — Spinal Versus General Anesthesia](04_Spinal_vs_General_Anesthesia_TKA.md) | Anesthesia modality | Neuraxial preference GRADE B for PONV and opioid exposure; blood loss advantage era-dependent (pre-TXA); thromboembolic advantage GRADE C |
-| [05 — Chronic Pain, Opioid Exposure, and Risk Stratification](05_Chronic_Pain_Opioid_Risk_Stratification_TKA.md) | Risk stratification | Preoperative opioid use GRADE A predictor; catastrophizing GRADE B; composite high-risk phenotype affects 20–40% of TKA candidates |
+| [04 — Spinal Versus General Anesthesia](04_Spinal_vs_General_Anesthesia_TKA.md) | Anesthesia modality | Neuraxial preference informal category B for PONV and opioid exposure; blood loss advantage era-dependent (pre-TXA); thromboembolic advantage informal category C |
+| [05 — Chronic Pain, Opioid Exposure, and Risk Stratification](05_Chronic_Pain_Opioid_Risk_Stratification_TKA.md) | Risk stratification | Preoperative opioid use informal category A predictor; catastrophizing informal category B; composite high-risk phenotype affects 20–40% of TKA candidates |
 
 **Reading sequence (clinical decision logic):** 04 → 01 → 02 → 05 → 03
 

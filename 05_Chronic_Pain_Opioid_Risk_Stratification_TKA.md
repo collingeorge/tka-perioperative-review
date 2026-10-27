@@ -1,3 +1,5 @@
+> **Review draft — 27 October 2026.** The original pooled-analysis claims are withdrawn pending verification. Informal evidence categories are not formal GRADE assessments. Remaining study-level statements and citations require audit before submission or clinical interpretation. The older PDF is superseded and has not been rebuilt.
+
 # 05 — Chronic Pain, Central Sensitization, and Opioid Risk Stratification in Robot-Assisted Total Knee Arthroplasty Candidates
 ## Preoperative Patient Phenotyping and Its Analgesic Implications
 
@@ -33,12 +35,12 @@ This review addresses preoperative patient characteristics — chronic opioid us
 
 | # | Grade · Condition | Interpretation |
 |---|---|---|
-| 1 | GRADE A | Preoperative opioid use is almost certainly one of the strongest independent predictors of poor TKA outcomes, including higher postoperative pain scores, greater opioid consumption, lower functional improvement at 12 months, and higher rate of patient-reported dissatisfaction, based on consistent findings across multiple large registry analyses and cohort studies. |
-| 2 | GRADE A | Preoperative pain catastrophizing, measured by the Pain Catastrophizing Scale (PCS), is almost certainly an independent predictor of poorer functional outcomes and higher postoperative pain scores in TKA, with the strongest evidence derived from prospective cohort studies with pre- and postoperative PCS measurement. |
-| 3 | GRADE B | Central sensitization, indicated by widespread pain beyond the index knee, low pressure pain threshold, or Central Sensitization Inventory (CSI) score, is likely to be associated with attenuated TKA analgesic response and reduced functional gain; the evidence is primarily observational and the causal pathway has not been fully established. |
-| 4 | GRADE B | Preoperative depression and anxiety are likely to be independently associated with worse TKA patient-reported outcomes at 12 months, with the effect persisting after adjustment for functional status and comorbidity burden in propensity-matched analyses. |
-| 5 | GRADE C | Preoperative quantitative sensory testing (QST) — including conditioned pain modulation (CPM) efficiency — is a promising but not yet clinically validated tool for predicting individual TKA analgesic response; available data do not permit its use as a routine preoperative triage instrument. |
-| 6 | GRADE B · Analytically Inferred | Analgesic strategy planning for TKA should incorporate a structured preoperative pain phenotyping assessment that identifies chronic opioid use, catastrophizing score, central sensitization indicators, and comorbid psychological conditions; this is likely to enable individualized analgesic planning that improves on population-average ERAS protocol defaults. |
+| 1 | informal category A | Preoperative opioid use is almost certainly one of the strongest independent predictors of poor TKA outcomes, including higher postoperative pain scores, greater opioid consumption, lower functional improvement at 12 months, and higher rate of patient-reported dissatisfaction, based on consistent findings across multiple large registry analyses and cohort studies. |
+| 2 | informal category A | Preoperative pain catastrophizing, measured by the Pain Catastrophizing Scale (PCS), is almost certainly an independent predictor of poorer functional outcomes and higher postoperative pain scores in TKA, with the strongest evidence derived from prospective cohort studies with pre- and postoperative PCS measurement. |
+| 3 | informal category B | Central sensitization, indicated by widespread pain beyond the index knee, low pressure pain threshold, or Central Sensitization Inventory (CSI) score, is likely to be associated with attenuated TKA analgesic response and reduced functional gain; the evidence is primarily observational and the causal pathway has not been fully established. |
+| 4 | informal category B | Preoperative depression and anxiety are likely to be independently associated with worse TKA patient-reported outcomes at 12 months, with the effect persisting after adjustment for functional status and comorbidity burden in propensity-matched analyses. |
+| 5 | informal category C | Preoperative quantitative sensory testing (QST) — including conditioned pain modulation (CPM) efficiency — is a promising but not yet clinically validated tool for predicting individual TKA analgesic response; available data do not permit its use as a routine preoperative triage instrument. |
+| 6 | informal category B · Analytically Inferred | Analgesic strategy planning for TKA should incorporate a structured preoperative pain phenotyping assessment that identifies chronic opioid use, catastrophizing score, central sensitization indicators, and comorbid psychological conditions; this is likely to enable individualized analgesic planning that improves on population-average ERAS protocol defaults. |
 
 ---
 
@@ -50,7 +52,7 @@ Preoperative opioid use among TKA candidates is substantially more prevalent tha
 
 Bedard et al. (Journal of Arthroplasty, 2017; PMID 28325558) analyzed 32,636 TKA patients from a national registry and reported that preoperative opioid users had significantly lower KOOS pain scores at 12 months compared to opioid-naive patients (mean difference −8.3 points, 95% CI −9.1 to −7.5, p < 0.001), lower functional improvement on WOMAC physical function (mean difference −7.1 points, p < 0.001), and significantly higher rates of 90-day opioid refill (OR 4.2, 95% CI 3.8–4.6). These differences persisted after propensity score adjustment for baseline pain severity, comorbidity, and functional status.
 
-We interpret with GRADE A confidence that preoperative opioid use almost certainly impairs TKA functional outcomes and analgesic response through mechanisms including opioid-induced hyperalgesia, mu-receptor tolerance, and the confounding contribution of the underlying chronic pain condition that drove opioid initiation.
+We interpret with informal category A confidence that preoperative opioid use almost certainly impairs TKA functional outcomes and analgesic response through mechanisms including opioid-induced hyperalgesia, mu-receptor tolerance, and the confounding contribution of the underlying chronic pain condition that drove opioid initiation.
 
 ### 1.2 Opioid-Induced Hyperalgesia as a Distinct Mechanism
 
@@ -58,7 +60,7 @@ Opioid-induced hyperalgesia (OIH) is a paradoxical pain sensitization phenomenon
 
 In the TKA context, OIH is relevant because patients with chronic preoperative opioid exposure may present with augmented central pain sensitization independent of the structural severity of knee osteoarthritis, and this central sensitization persists postoperatively despite successful arthroplasty. Published case series document patients with well-functioning TKA implants and minimal radiographic pathology who report pain scores equivalent to their preoperative state, with the pain presentation consistent with OIH rather than implant failure or peripheral nociception.
 
-Ketamine, through NMDA receptor antagonism, is the pharmacological agent most directly targeted at OIH mechanism in the perioperative period. Published protocols for TKA in chronic opioid users have incorporated subanesthetic ketamine infusions extending into the postoperative period (24–48 hours) specifically to address OIH contribution to postoperative pain. We interpret with GRADE C confidence that perioperative ketamine is probably associated with attenuated OIH-driven postoperative pain in chronic opioid users, but the controlled data in this specific population and surgical context are limited to small observational series.
+Ketamine, through NMDA receptor antagonism, is the pharmacological agent most directly targeted at OIH mechanism in the perioperative period. Published protocols for TKA in chronic opioid users have incorporated subanesthetic ketamine infusions extending into the postoperative period (24–48 hours) specifically to address OIH contribution to postoperative pain. We interpret with informal category C confidence that perioperative ketamine is probably associated with attenuated OIH-driven postoperative pain in chronic opioid users, but the controlled data in this specific population and surgical context are limited to small observational series.
 
 ### 1.3 Dose-Dependent Outcome Effects
 
@@ -80,7 +82,7 @@ Published MCID analyses are less developed for the PCS in TKA than for KOOS or W
 
 The prospective evidence for PCS as an independent predictor of TKA outcomes is among the strongest in the preoperative risk stratification literature. Forsythe et al. (Journal of Bone and Joint Surgery, 2008; PMID 18272357) reported in a prospective cohort (n = 127 TKA patients) that preoperative PCS score was significantly associated with postoperative pain intensity at 6 months (r = 0.41, p < 0.001), functional improvement on WOMAC (r = −0.38, p < 0.001), and patient satisfaction (r = −0.35, p < 0.001) after controlling for baseline pain severity and comorbidity.
 
-A subsequent meta-analysis by Lunn et al. (Acta Orthopaedica, 2012; PMID 22248363) synthesized 12 prospective studies (n = 1,491 TKA and THA patients) and reported that preoperative PCS was a significant predictor of postoperative pain at 3 months (pooled r = 0.31, 95% CI 0.21–0.40) and 12 months (pooled r = 0.27, 95% CI 0.15–0.38). We interpret with GRADE A confidence that preoperative pain catastrophizing is almost certainly an independent predictor of poorer postoperative pain and functional outcomes in TKA across the published prospective literature.
+A subsequent meta-analysis by Lunn et al. (Acta Orthopaedica, 2012; PMID 22248363) synthesized 12 prospective studies (n = 1,491 TKA and THA patients) and reported that preoperative PCS was a significant predictor of postoperative pain at 3 months (pooled r = 0.31, 95% CI 0.21–0.40) and 12 months (pooled r = 0.27, 95% CI 0.15–0.38). We interpret with informal category A confidence that preoperative pain catastrophizing is almost certainly an independent predictor of poorer postoperative pain and functional outcomes in TKA across the published prospective literature.
 
 ### 2.3 Implications for Analgesic Strategy
 
@@ -104,7 +106,7 @@ The clinical significance of central sensitization in TKA candidates is that the
 
 **Conditioned Pain Modulation (CPM).** CPM efficiency — the degree to which application of a heterotopic painful stimulus suppresses a test pain stimulus — is a quantitative measure of descending inhibitory pain pathway function. Published quantitative sensory testing studies have documented reduced CPM efficiency in patients with knee osteoarthritis associated with central sensitization [Yarnitsky et al., Pain, 2015; PMID 25599301]. Low preoperative CPM efficiency has been associated with higher postoperative pain scores following TKA in small prospective cohorts.
 
-We interpret with GRADE C confidence that preoperative CS assessment using CSI and CPM is probably associated with predictive value for TKA analgesic outcomes, but the available data do not permit its use as a routine clinical triage instrument at this time. The evidence base consists primarily of small single-center cohort studies without prospective validation in large independent samples.
+We interpret with informal category C confidence that preoperative CS assessment using CSI and CPM is probably associated with predictive value for TKA analgesic outcomes, but the available data do not permit its use as a routine clinical triage instrument at this time. The evidence base consists primarily of small single-center cohort studies without prospective validation in large independent samples.
 
 ### 3.3 Widespread Pain and the Fibromyalgia Spectrum
 
@@ -138,7 +140,7 @@ The **GAD-7** (Generalized Anxiety Disorder 7-item scale) provides comparable sc
 
 The **PCS** (described in Part 2) covers catastrophizing specifically and is not redundant with PHQ-9 or GAD-7; PCS captures a distinct pain cognition construct that has incremental predictive validity for TKA outcomes beyond depression and anxiety scores alone.
 
-We interpret with GRADE B confidence that routine preoperative screening with PHQ-9, GAD-7, and PCS in TKA candidates is likely to identify a clinically meaningful proportion of patients who require individualized analgesic planning that departs from standard ERAS protocol defaults. The available evidence does not establish that administering these instruments changes perioperative management in a way that improves measured outcomes, as no adequately powered RCT of a comprehensive psychological screening and analgesic modification protocol has been conducted in TKA.
+We interpret with informal category B confidence that routine preoperative screening with PHQ-9, GAD-7, and PCS in TKA candidates is likely to identify a clinically meaningful proportion of patients who require individualized analgesic planning that departs from standard ERAS protocol defaults. The available evidence does not establish that administering these instruments changes perioperative management in a way that improves measured outcomes, as no adequately powered RCT of a comprehensive psychological screening and analgesic modification protocol has been conducted in TKA.
 
 ---
 
@@ -154,7 +156,7 @@ This framework converts population-average ERAS analgesic defaults into a patien
 
 The published literature has not established a preoperative opioid dose threshold above which TKA outcomes are uniformly poor or above which surgery should be deferred. Goesling et al. (Pain, 2016; PMID 26731550) documented worse outcomes at > 20 MME/day, but patients in this range still showed group-level improvement on most PRO instruments at 6 months, even if the improvement was smaller than in opioid-naive patients. Published expert consensus from pain medicine and arthroplasty societies has not converged on a dose threshold for TKA candidacy restriction.
 
-We interpret with GRADE C confidence that preoperative opioid taper programs, when feasible and medically appropriate, probably improve TKA outcomes in high-dose preoperative opioid users, but the available controlled data do not establish the minimum taper duration or dose reduction required to produce meaningful outcome benefit. This area represents a critical gap in the preoperative optimization literature.
+We interpret with informal category C confidence that preoperative opioid taper programs, when feasible and medically appropriate, probably improve TKA outcomes in high-dose preoperative opioid users, but the available controlled data do not establish the minimum taper duration or dose reduction required to produce meaningful outcome benefit. This area represents a critical gap in the preoperative optimization literature.
 
 ---
 

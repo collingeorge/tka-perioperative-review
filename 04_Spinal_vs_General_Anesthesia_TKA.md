@@ -1,3 +1,5 @@
+> **Review draft — 27 October 2026.** The original pooled-analysis claims are withdrawn pending verification. Informal evidence categories are not formal GRADE assessments. Remaining study-level statements and citations require audit before submission or clinical interpretation. The older PDF is superseded and has not been rebuilt.
+
 # 04 — Spinal Versus General Anesthesia in Robot-Assisted Total Knee Arthroplasty
 ## Evidence Synthesis and Decision Framework
 
@@ -33,12 +35,12 @@ This review synthesizes published literature through early 2026. Evidence grades
 
 | # | Grade · Condition | Interpretation |
 |---|---|---|
-| 1 | GRADE A | Neuraxial anesthesia is almost certainly associated with lower postoperative nausea and vomiting rates, reduced intraoperative blood loss, and shorter length of hospital stay compared to general anesthesia in primary total knee arthroplasty, based on consistent findings across large registry analyses and RCTs. |
-| 2 | GRADE B | Spinal anesthesia is likely to be associated with reduced 30-day all-cause mortality, reduced pulmonary complications, and reduced transfusion requirements compared to general anesthesia in TKA, with the strongest evidence derived from retrospective propensity-matched registry cohorts rather than prospective RCTs. |
-| 3 | GRADE B | Intrathecal morphine as an adjunct to spinal anesthesia for TKA is likely to reduce postoperative opioid consumption at 24 hours; the benefit is offset by a documented increase in PONV and pruritus, and the optimal dose has not been established in a definitive comparative trial. |
-| 4 | GRADE B | General anesthesia is likely to be the appropriate primary anesthetic for TKA in patients with absolute neuraxial contraindications, prior lumbar fusion with anatomical barriers, or documented patient refusal of neuraxial technique; this is not a fallback but a clinically indicated primary choice in these populations. |
-| 5 | GRADE C · Analytically Inferred | The cognitive and neurological recovery advantages of neuraxial over general anesthesia in older TKA patients are probably real but are not consistently demonstrated across high-quality prospective trials; the postoperative cognitive dysfunction literature in arthroplasty is limited by heterogeneous outcome definitions and follow-up intervals. |
-| 6 | GRADE B · Extrapolated | ERAS Society guidelines recommend neuraxial anesthesia as the preferred technique for primary TKA; this recommendation is based on conventional TKA evidence and has not been separately validated in rTKA-specific populations. |
+| 1 | informal category A | Neuraxial anesthesia is almost certainly associated with lower postoperative nausea and vomiting rates, reduced intraoperative blood loss, and shorter length of hospital stay compared to general anesthesia in primary total knee arthroplasty, based on consistent findings across large registry analyses and RCTs. |
+| 2 | informal category B | Spinal anesthesia is likely to be associated with reduced 30-day all-cause mortality, reduced pulmonary complications, and reduced transfusion requirements compared to general anesthesia in TKA, with the strongest evidence derived from retrospective propensity-matched registry cohorts rather than prospective RCTs. |
+| 3 | informal category B | Intrathecal morphine as an adjunct to spinal anesthesia for TKA is likely to reduce postoperative opioid consumption at 24 hours; the benefit is offset by a documented increase in PONV and pruritus, and the optimal dose has not been established in a definitive comparative trial. |
+| 4 | informal category B | General anesthesia is likely to be the appropriate primary anesthetic for TKA in patients with absolute neuraxial contraindications, prior lumbar fusion with anatomical barriers, or documented patient refusal of neuraxial technique; this is not a fallback but a clinically indicated primary choice in these populations. |
+| 5 | informal category C · Analytically Inferred | The cognitive and neurological recovery advantages of neuraxial over general anesthesia in older TKA patients are probably real but are not consistently demonstrated across high-quality prospective trials; the postoperative cognitive dysfunction literature in arthroplasty is limited by heterogeneous outcome definitions and follow-up intervals. |
+| 6 | informal category B · Extrapolated | ERAS Society guidelines recommend neuraxial anesthesia as the preferred technique for primary TKA; this recommendation is based on conventional TKA evidence and has not been separately validated in rTKA-specific populations. |
 
 ---
 
@@ -50,7 +52,7 @@ The strongest evidence favoring spinal over general anesthesia in TKA derives fr
 
 Pugely et al. (Journal of Bone and Joint Surgery, 2013; PMID 23677358) reported similar findings in a prospective cohort study (n = 14,052 TKA patients from the American College of Surgeons NSQIP database), documenting lower 30-day complication rates with spinal anesthesia compared to general anesthesia (OR 0.82, 95% CI 0.70–0.97, p = 0.02), with the greatest absolute risk reduction in pulmonary and urinary complications.
 
-We interpret with GRADE B confidence that spinal anesthesia is likely associated with reduced perioperative complication rates in primary TKA. The available evidence does not establish a causal mechanism for this association independent of the systemic hemodynamic and neuroendocrine effects of neuraxial block, and the benefit may be partially attributable to reduced inhalational anesthetic exposure rather than neuraxial analgesia per se.
+We interpret with informal category B confidence that spinal anesthesia is likely associated with reduced perioperative complication rates in primary TKA. The available evidence does not establish a causal mechanism for this association independent of the systemic hemodynamic and neuroendocrine effects of neuraxial block, and the benefit may be partially attributable to reduced inhalational anesthetic exposure rather than neuraxial analgesia per se.
 
 ### 1.2 Blood Loss and Transfusion Reduction
 
@@ -62,7 +64,7 @@ The available trial data documents that the blood loss advantage of neuraxial an
 
 Postoperative nausea and vomiting is a significant contributor to delayed mobilization, poor patient experience, and increased opioid rescue requirements in TKA. General anesthesia with volatile agents and intraoperative opioids is a documented independent risk factor for PONV by the Apfel scoring system [Apfel et al., Anesthesiology, 2002; PMID 12357146]. Neuraxial anesthesia eliminates volatile agent exposure and reduces intraoperative opioid requirements, thereby reducing two of the four major Apfel risk factors simultaneously.
 
-Harsten et al. (Acta Anaesthesiologica Scandinavica, 2015; PMID 25556332) reported in a prospective RCT (n = 120 TKA patients) that general anesthesia was associated with a significantly higher PONV incidence in the first 24 hours compared to spinal anesthesia (46% vs. 18%, p < 0.001), with no significant difference in pain scores or opioid consumption between groups when equivalent multimodal analgesia was applied. We interpret with GRADE A confidence that neuraxial anesthesia almost certainly reduces PONV rates in primary TKA when compared to volatile agent-based general anesthesia.
+Harsten et al. (Acta Anaesthesiologica Scandinavica, 2015; PMID 25556332) reported in a prospective RCT (n = 120 TKA patients) that general anesthesia was associated with a significantly higher PONV incidence in the first 24 hours compared to spinal anesthesia (46% vs. 18%, p < 0.001), with no significant difference in pain scores or opioid consumption between groups when equivalent multimodal analgesia was applied. We interpret with informal category A confidence that neuraxial anesthesia almost certainly reduces PONV rates in primary TKA when compared to volatile agent-based general anesthesia.
 
 ---
 
@@ -72,13 +74,13 @@ Harsten et al. (Acta Anaesthesiologica Scandinavica, 2015; PMID 25556332) report
 
 Intrathecal morphine (ITM) administered as an adjunct to spinal local anesthetic for TKA provides prolonged postoperative analgesia through direct spinal opioid receptor activation, independent of systemic absorption. Published RCTs document that ITM doses in the range of 100–200 mcg reduce 24-hour postoperative opioid consumption by approximately 30–50% compared to spinal anesthesia without ITM in TKA. Rathmell et al. (Anesthesiology, 2005; PMID 16244407) established in a dose-finding RCT (n = 80) that the analgesic effect of ITM in arthroplasty plateaus at approximately 200 mcg, with doses above this threshold providing no additional analgesia while substantially increasing adverse effect rates.
 
-We interpret with GRADE B confidence that ITM 100–200 mcg is likely to reduce postoperative opioid consumption in TKA during the first 24 hours when administered as part of a spinal anesthetic. The available evidence does not establish that this opioid-sparing effect produces differences in time to first mobilization or discharge readiness in the context of contemporary ERAS protocols that already include multimodal nonopioid analgesia.
+We interpret with informal category B confidence that ITM 100–200 mcg is likely to reduce postoperative opioid consumption in TKA during the first 24 hours when administered as part of a spinal anesthetic. The available evidence does not establish that this opioid-sparing effect produces differences in time to first mobilization or discharge readiness in the context of contemporary ERAS protocols that already include multimodal nonopioid analgesia.
 
 ### 2.2 The PONV and Pruritus Tradeoff
 
 The principal adverse effect tradeoff of ITM in TKA is the dose-dependent increase in PONV and pruritus. Gehling and Tryba (Anaesthesia, 1998; PMID 9836225) reported in a systematic review that intrathecal opioids significantly increased PONV incidence compared to non-opioid spinal anesthesia (NNH 5.4 for nausea), with pruritus rates of 30–60% across studies. This adverse effect profile directly conflicts with the PONV reduction rationale for choosing spinal over general anesthesia, creating a pharmacological tradeoff that must be weighed against the analgesic benefit.
 
-We interpret with GRADE B confidence that the PONV and pruritus burden of ITM is likely to partially offset the PONV advantage of neuraxial over general anesthesia in TKA patients with elevated baseline Apfel scores. The available evidence does not establish the optimal ITM dose for maximizing analgesia while minimizing PONV in rTKA specifically; the dose-response relationship in the rTKA context has not been separately evaluated.
+We interpret with informal category B confidence that the PONV and pruritus burden of ITM is likely to partially offset the PONV advantage of neuraxial over general anesthesia in TKA patients with elevated baseline Apfel scores. The available evidence does not establish the optimal ITM dose for maximizing analgesia while minimizing PONV in rTKA specifically; the dose-response relationship in the rTKA context has not been separately evaluated.
 
 ### 2.3 Respiratory Depression: Risk Stratification
 
@@ -100,7 +102,7 @@ Relative contraindications include therapeutic anticoagulation (where timing of 
 
 Prior lumbar spinal fusion represents a clinically common anatomical challenge in the TKA population, given the demographic overlap between patients with severe knee osteoarthritis and those with prior lumbar degenerative disease. Published anesthesia literature documents that prior fusion hardware, altered ligamentum flavum anatomy, and epidural fibrosis following lumbar procedures substantially increase technical failure rates for spinal anesthesia and may require multiple attempts, paramedian approaches, or ultrasound guidance to achieve successful dural puncture [Lirk et al., Anaesthesia, 2013; PMID 23121613].
 
-We interpret with GRADE B confidence that prior lumbar fusion probably increases the technical difficulty and failure rate of spinal anesthesia for TKA to a degree that warrants individualized anesthetic planning and explicit discussion with the patient regarding the possibility of conversion to general anesthesia. The available evidence does not establish a quantified failure rate for spinal anesthesia in patients with prior multilevel lumbar fusion undergoing TKA.
+We interpret with informal category B confidence that prior lumbar fusion probably increases the technical difficulty and failure rate of spinal anesthesia for TKA to a degree that warrants individualized anesthetic planning and explicit discussion with the patient regarding the possibility of conversion to general anesthesia. The available evidence does not establish a quantified failure rate for spinal anesthesia in patients with prior multilevel lumbar fusion undergoing TKA.
 
 ### 3.3 Patient Refusal and Informed Consent Considerations
 
@@ -118,7 +120,7 @@ Postoperative cognitive dysfunction (POCD) — defined variably across studies a
 
 Published observational literature has reported lower rates of early POCD in patients receiving neuraxial versus general anesthesia for arthroplasty, but the evidence is methodologically heterogeneous. Mason et al. (Anesthesiology, 2010; PMID 20463574) reported in a prospective cohort study (n = 263 TKA and THA patients) that neuraxial anesthesia was associated with lower rates of delirium in the first postoperative week (6.2% vs. 14.7%, p = 0.01), though the groups were not randomized and differed in baseline cognitive screening scores.
 
-We interpret with GRADE C confidence that neuraxial anesthesia is probably associated with reduced early POCD and delirium rates in TKA patients over 65, with the caveat that the available observational evidence is insufficient to establish causality and does not permit isolation of the anesthetic technique effect from concurrent analgesic and hemodynamic management differences.
+We interpret with informal category C confidence that neuraxial anesthesia is probably associated with reduced early POCD and delirium rates in TKA patients over 65, with the caveat that the available observational evidence is insufficient to establish causality and does not permit isolation of the anesthetic technique effect from concurrent analgesic and hemodynamic management differences.
 
 ### 4.2 Limitations of the POCD Literature in Arthroplasty
 
@@ -134,7 +136,7 @@ The available literature does not permit a firm conclusion on whether the anesth
 
 The ERAS Society guidelines for total hip and knee arthroplasty (Wainwright et al., Acta Orthopaedica, 2020; PMID 31663447) recommend neuraxial anesthesia as the preferred technique for primary TKA based on the evidence reviewed above, characterizing the recommendation strength as moderate with a strong evidence basis from registry data. The guidelines explicitly note that the recommendation is conditioned on the absence of contraindications and on patient preference, and state that general anesthesia with propofol-based TIVA is a reasonable alternative when neuraxial technique is contraindicated or declined.
 
-We interpret with GRADE B confidence, extrapolated from conventional TKA evidence, that neuraxial anesthesia is likely to represent the optimal primary technique for rTKA in eligible patients within an ERAS framework. This interpretation does not extend to patients with the contraindication profile described in Part 3, for whom general anesthesia is the clinically indicated primary choice.
+We interpret with informal category B confidence, extrapolated from conventional TKA evidence, that neuraxial anesthesia is likely to represent the optimal primary technique for rTKA in eligible patients within an ERAS framework. This interpretation does not extend to patients with the contraindication profile described in Part 3, for whom general anesthesia is the clinically indicated primary choice.
 
 ### 5.2 rTKA-Specific Operative Considerations for Anesthetic Planning
 
