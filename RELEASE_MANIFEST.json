@@ -1,5 +1,5 @@
 {
-  "candidate": "2026.10-rc1",
+  "candidate": "2026.10-rc2",
   "public_release": false,
   "history_included": false,
   "history_audited": false,
@@ -8,48 +8,53 @@
   "files": [
     {
       "path": "01_Regional_Anesthesia_ACB_IPACK.md",
-      "bytes": 1357,
-      "sha256": "43e67c6d7d15ef64ff96e945b65eee3c0419725b5f2a2fb4b53bf3d0cf21d3ca"
+      "bytes": 1532,
+      "sha256": "86d28605792fbba7a325c0b5d55bd1add36d8bb5cf8ada26475f9056350dca9b"
     },
     {
       "path": "02_Opioid_Free_Anesthesia_TKA.md",
-      "bytes": 25338,
-      "sha256": "06f6f2c6a0d046e41eed583641d5ccf7a24acbf003834f8381050131ff09b36f"
+      "bytes": 2858,
+      "sha256": "9d77a390506537176d2e2da3cd9e0ae5ae5a0b7cd9a127c1f6d5b1c71441c389"
     },
     {
       "path": "03_Patient_Reported_Outcomes_TKA.md",
-      "bytes": 24583,
-      "sha256": "d5a1bd552fcced30691c2d8f9a9c20d96c9675c3bedc8c14a763dd20350e8bc6"
+      "bytes": 1827,
+      "sha256": "84ddad3a6ab77a2c797572319e792729a73f8b0e32b76e127f716d73857c1946"
     },
     {
       "path": "04_Spinal_vs_General_Anesthesia_TKA.md",
-      "bytes": 27772,
-      "sha256": "1f22861b6509dfdc29328732aa06752e5f6f6b5cf03a3a8491337b8744277139"
+      "bytes": 1877,
+      "sha256": "2ce764c5b481de4a3216dcf80583ac53feaa03f00e3e18e3afd2b890398db3a4"
     },
     {
       "path": "05_Chronic_Pain_Opioid_Risk_Stratification_TKA.md",
-      "bytes": 28164,
-      "sha256": "ee36365161739c48114af29d1e2e1f00c509c72786b233e9776777c4307858d9"
+      "bytes": 1738,
+      "sha256": "9ce635ca38593890f7c2cacd611a7e79509080f365c4e4d0196a58b37cb4e3d3"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 484,
-      "sha256": "172859f745e35776ee51d7272c847d4249a52fb9448ea91c4e4f9d9c0b583b1e"
+      "bytes": 517,
+      "sha256": "aa425fba9e1b0b58ca5ff8c6ee77241c6e50721d09a910dd2af665748e42ca8e"
     },
     {
       "path": "DOCUMENT_BUILD.json",
-      "bytes": 422,
-      "sha256": "d510f8e5a1ba567288350342eaf2547895536d339e786370610f83b0fb22ec0c"
+      "bytes": 481,
+      "sha256": "285863601cce0a8aa7548064670e9a289dcbc66040bf250aa7217c8699aad209"
     },
     {
       "path": "George-TKA-Scoping-Review-v2.md",
-      "bytes": 69112,
-      "sha256": "f98d6810f6062d41faa9c5e2771155ef753ffd5809fa6f2ad19e01585e2a5ae8"
+      "bytes": 7120,
+      "sha256": "b57259c269af3f26eaf2d719c362ab52fa513120e753e6d1f5fc675c956d60c1"
     },
     {
       "path": "George-TKA-Scoping-Review-v2.pdf",
-      "bytes": 168777,
-      "sha256": "36ef269ab7726f92997b9be6dcb7ab3aaf4e2b69d01caec7d6a5b7c6fee3a4e4"
+      "bytes": 82377,
+      "sha256": "79bb496c9bcac07506f97577b21db0b1138b445703863e90de8966aa233da5a0"
+    },
+    {
+      "path": "HISTORICAL_VERSION_NOTICE.md",
+      "bytes": 467,
+      "sha256": "c35978856d877183e1500d5eb494f1dd0130ac581dc7f0a907cdfab65094128a"
     },
     {
       "path": "LICENSE",
@@ -57,19 +62,24 @@
       "sha256": "d6f6e87042d063d129938ecd5705374b0d5fa0afd7f85a6d0a609e91cf354af8"
     },
     {
+      "path": "PROVENANCE.md",
+      "bytes": 1418,
+      "sha256": "e8d321b9ad4f01b4a53b25d5310b57b9c4d2aa14c28bc340a00fb8acfdb5a264"
+    },
+    {
       "path": "PUBLICATION_REVIEW.md",
-      "bytes": 2486,
-      "sha256": "e3c5ab0ec3ff5fc0ebce4811cf71bdbc4e74f815e7648be0d7644658d5d7db15"
+      "bytes": 2570,
+      "sha256": "1675a87385af597a78d6d5914176c1d7041d4239ae1887b8fd47b5f5f854d0f7"
     },
     {
       "path": "README.md",
-      "bytes": 8577,
-      "sha256": "8ffb52e603a070a84e2288262f5c04a16eac22bab2b0df3dd219ab91563b9f95"
+      "bytes": 1706,
+      "sha256": "91fd960a17820f83e2d9b45fa0c951b7e52f294b4fffa1f8cc76a6af8bc9cf95"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 564,
-      "sha256": "3ada0b7591d4bcd1d1ed5624033c2f372e233e20ead4d79b82495c4b3bba2c61"
+      "bytes": 610,
+      "sha256": "01f827257e76caabbc7bacfcd4ce085780b0dfe289a74058d2f1be760194423f"
     }
   ]
 }

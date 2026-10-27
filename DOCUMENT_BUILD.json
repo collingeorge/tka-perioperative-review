@@ -1,12 +1,12 @@
 {
-  "version": "2026.10-rc1",
-  "method": "ReportLab export from Markdown; not a successful TeX compilation",
+  "version": "2026.10-rc2",
+  "method": "Direct ReportLab export from named Markdown; TeX compilation not asserted",
   "documents": [
     {
-      "source": "George-TKA-Scoping-Review-v2.md",
-      "pdf": "George-TKA-Scoping-Review-v2.pdf",
-      "source_sha256": "f98d6810f6062d41faa9c5e2771155ef753ffd5809fa6f2ad19e01585e2a5ae8",
-      "pdf_sha256": "36ef269ab7726f92997b9be6dcb7ab3aaf4e2b69d01caec7d6a5b7c6fee3a4e4"
+      "source": "tka-perioperative-review/George-TKA-Scoping-Review-v2.md",
+      "pdf": "tka-perioperative-review/George-TKA-Scoping-Review-v2.pdf",
+      "source_sha256": "b57259c269af3f26eaf2d719c362ab52fa513120e753e6d1f5fc675c956d60c1",
+      "pdf_sha256": "79bb496c9bcac07506f97577b21db0b1138b445703863e90de8966aa233da5a0"
     }
   ]
 }
