@@ -1,4 +1,4 @@
-> **Review draft — 27 October 2026.** The original pooled-analysis claims are withdrawn pending verification. Informal evidence categories are not formal GRADE assessments. Remaining study-level statements and citations require audit before submission or clinical interpretation. The older PDF is superseded and has not been rebuilt.
+> **Review draft — 27 October 2026.** The original pooled-analysis claims are withdrawn pending verification. Informal evidence categories are not formal GRADE assessments. Remaining study-level statements and citations require audit before submission or clinical interpretation. The PDF is rebuilt from this revised Markdown source and remains a review candidate.
 
 # Perioperative Analgesic Strategy in Total Knee Arthroplasty: A Scoping Review Across Anesthesia Modality, Regional Techniques, Adjuvant Pharmacology, Risk Stratification, and Outcome Measurement
 
@@ -180,49 +180,25 @@ No evidence addresses anesthesia modality in rTKA. The following implications ar
 
 ---
 
-## 4. Results: Regional Analgesia — ACB, IPACK, and Periarticular Infiltration
+## 4. Regional analgesia: corrected selected-source interpretation
 
-### 4.1 Evidence Scope
+The earlier regional evidence table contained bibliographic mismatches and unsupported certainty claims. It is replaced with this narrower interpretation; no new systematic search or pooling is claimed.
 
-Included sources for this domain: 11 studies (Table 2). Study designs: 2 foundational RCTs (Jæger et al. 2013; Shah and Jain 2014), 2 Cochrane-level meta-analyses (Zhao ACB vs FNB 2017; Fowler FNB 2008), 3 meta-analyses on IPACK (Hussain et al. 2021; Wang et al. 2023; Albrecht et al. 2021), 1 meta-analysis on PAI (Jiang et al. 2013), 1 comparative study of ACB versus PAI (Zhao et al. 2019), 1 meta-analysis on perineural dexamethasone (Albrecht et al. 2014), and 1 rTKA outcomes study for context (Xu et al. 2022; domestic robotic system, platform verification required).
+### 4.1 Adductor canal versus femoral nerve block
 
-**Table 2. Evidence map — Regional analgesia domain**
+The relevant Cochrane review is Schnabel et al. (2019), reference 17. It emphasizes outcome-specific uncertainty. Its findings do not establish universal analgesic non-inferiority, equivalence, or a reduction in falls. A lack of a detected difference is not itself an equivalence or non-inferiority result. Motor-strength findings from individual studies should be distinguished from pain and longer-term functional outcomes.
 
-| Source | Design | N | Primary endpoint | Informal category | Key finding |
-|---|---|---|---|---|---|
-| Jæger et al. 2013¹⁵ | RCT | 48 | Pain, quadriceps strength, TUG | A | ACB non-inferior NRS; superior quadriceps preservation |
-| Shah & Jain 2014¹⁶ | RCT | 60 | Function, pain | A | Continuous ACB non-inferior to continuous FNB on pain; better function |
-| Zhao et al. 2017¹⁷ | Systematic review/MA | 10 RCTs | Pain, strength, TUG | A | ACB non-inferior FNB on pain; significantly superior quadriceps strength |
-| Fowler et al. 2008¹⁴ | Systematic review/MA | Mixed knee surgery | Pain vs systemic analgesia | A | FNB superior to systemic opioids; benchmark for block value |
-| Hussain et al. 2021²⁰ | Meta-analysis | 6 RCTs, n=466 | Posterior pain, MME | B | IPACK+ACB reduces 24-hr posterior NRS and MME vs ACB alone (LIA context) |
-| Wang et al. 2023²¹ | Meta-analysis | 9 RCTs | Pain, function, MME | B | IPACK+ACB superior on pain and function at 24-48 hr |
-| Albrecht et al. 2021²² | Meta-analysis | Knee surgery | Pain, MME | B | IPACK analgesic benefit after knee surgery; technique variation limits precision |
-| Jiang et al. 2013¹⁸ | Meta-analysis | TKA/THA | Pain, opioid use | B–C | PAI superior to systemic analgesia alone; less robust vs block comparators |
-| Zhao et al. 2019¹⁹ | Comparative cohort | TKA | Pain, function | B | ACB and PAI non-inferior on pain; complementary coverage distributions |
-| Albrecht et al. 2014²³ | Meta-analysis | Multiple nerve blocks | Block duration | B | Perineural dexamethasone extends block duration 6–8 hr |
-| Xu et al. 2022⁵⁹ | RCT (rTKA) | TKA | Functional outcomes | Context only | rTKA associated with early functional outcomes ≥ conventional TKA |
+### 4.2 iPACK and periarticular infiltration
 
-### 4.2 Principal Findings
+Hussain et al. (2021), reference 20, found that adding iPACK to ACB did not improve analgesic outcomes when periarticular local infiltration analgesia was already used. Without that infiltration, pain and functional outcomes improved in the analyzed trials, but opioid consumption did not. The earlier draft reversed this background-treatment qualification and overstated opioid reduction; that interpretation is withdrawn.
 
-ACB provides non-inferior analgesia to FNB for anterior compartment pain at 24–48 hours with a significant quadriceps-sparing advantage (informal category A, consistent across multiple RCTs and a Cochrane-level meta-analysis¹⁷). This evidence base supports ACB as the preferred peripheral nerve strategy over FNB when early ambulation is a pathway priority. The evidence does not establish ACB superiority on 90-day functional outcomes, KOOS or WOMAC at 6 weeks, or fall incidence.
+### 4.3 Dexamethasone and applicability
 
-IPACK addition to ACB reduces posterior knee pain and oral MME consumption at 24–48 hours in TKA patients receiving multimodal analgesia including LIA/PAI (informal category B, consistent across three independent meta-analyses²⁰˒²¹˒²²). A critical qualification applies: the primary meta-analytic evidence for IPACK was generated in LIA co-administration contexts; additive benefit in populations not receiving PAI/LIA is not directly established.
+Reference 23 is Albrecht et al., published in 2015, not the cited 2014 volume/pages. Its prolonged-analgesia findings were highly heterogeneous and concern multiple peripheral blocks; a fixed block-duration gain should not be generalized to ACB or robot-assisted TKA.
 
-PAI is an evidence-supported analgesic strategy with informal category B–C evidence for opioid reduction and non-inferiority versus ACB on anterior pain; PAI and ACB-plus-IPACK address partially distinct anatomical targets and are potentially complementary.
+### 4.4 Limits
 
-Perineural dexamethasone extends peripheral nerve block duration by 6–8 hours (informal category B); ACB-specific data are limited relative to the broader peripheral nerve block literature.
-
-### 4.3 Key Evidence Gaps
-
-All RCT evidence is derived from conventional TKA populations. No adequately powered study has evaluated ACB or IPACK efficacy in a population specifically enrolled as rTKA. Optimal IPACK technique parameters (volume, concentration, agent, adjuvant) are not standardized. The IPACK evidence base is concentrated in single-center trials with a predominantly positive published record, raising publication bias risk.
-
-### 4.4 Evidence Gap — Implications for Robot-Assisted TKA
-
-No direct evidence addresses ACB, IPACK, or PAI efficacy in rTKA. The following are EVIDENCE GAP — ANALYTICALLY INFERRED. Anatomical targets of these techniques are not substantially modified by robotic versus manual surgical approach; technique portability is intact. Three hypothesis-level implications follow from the evidence gap: (1) tourniquet-free rTKA may reduce ischemic pain demand, producing smaller absolute NRS differences between block and control than in conventional TKA trials; (2) rTKA soft tissue precision may reduce PAI and IPACK analgesic demand by reducing posterior capsular trauma; (3) rTKA ERAS pathways targeting sub-8-hour ambulation may amplify the clinical consequence of ACB's quadriceps-preservation advantage relative to the 24-hour ambulation window where most ACB versus FNB trials measured outcomes.
-
-*The following section presents the mapped evidence for intraoperative adjuvant pharmacology within the combined neuraxial-plus-regional-block background.*
-
----
+These selected checks do not verify every trial previously listed. No robot-specific efficacy, optimal injection regimen, preferred technique, or certainty grade is established here. A complete regional review requires a new source-level audit before reinstating the omitted evidence table.
 
 ## 5. Results: Adjuvant Pharmacology and Opioid-Minimizing Pathways
 
@@ -377,11 +353,11 @@ Outcome instruments are platform-independent as measurement tools. If rTKA produ
 
 The mapped evidence across five domains indicates that perioperative analgesic planning in TKA involves a layered decision architecture in which each domain's evidence modifies the interpretation of the domains that precede it. Anesthesia modality sets the pharmacological background against which regional blocks and adjuvant agents operate. Regional analgesic technique within that background determines the anatomical distribution of analgesia and motor function preservation. Adjuvant pharmacology provides additional opioid-sparing and anti-hyperalgesic effects whose magnitude depends on the ceiling imposed by the regional and neuraxial background. Patient risk phenotype determines how much of the population-average benefit from each preceding layer any individual patient realizes. Outcome measurement determines whether that benefit — however distributed across patients — is detectable with the instruments applied.
 
-The domain-level evidence maps interactions that are not captured in single-domain analyses. The mapped evidence for ITM opioid-sparing is attenuated in IPACK-supplemented pathways where posterior capsular coverage reduces rescue opioid demand. The mapped evidence for ketamine's analgesic contribution is concentrated in the opioid-tolerant subgroup where ceiling effects on the neuraxial-plus-block background are lowest. The MCID thresholds used to evaluate the success of both ITM and ketamine in published trials were derived from average-risk populations and are likely miscalibrated for the high-catastrophizing patients who most need effective analgesic pathway modification.
+Potential interactions between interventions require direct evidence on the background regimen. They cannot be established by juxtaposing separate studies. The iPACK example in Section 4 illustrates the importance of periarticular infiltration as a comparator modifier.
 
 ### 8.2 Evidence Quality Distribution Across Domains
 
-The evidence base is not of uniform quality across the five mapped domains. informal category A evidence is concentrated in the adjuvant pharmacology domain (NSAIDs/COX-2 inhibitors) and the regional analgesia domain (ACB over FNB for quadriceps preservation). informal category B evidence predominates across PONV and opioid-sparing for anesthesia modality, IPACK efficacy, ketamine and dexamedetomidine as adjuvants, and risk prediction for all five preoperative risk domains. informal category C evidence characterizes the thromboembolic and major morbidity claims for neuraxial anesthesia, IV lidocaine and magnesium as adjuvants, and the rTKA portability inferences throughout. The outcome measurement domain is methodological rather than interventional; its evidence maps instrument validity constraints rather than effect sizes.
+The remaining informal evidence labels are historical author-assigned categories, not formal GRADE assessments. They do not establish a treatment hierarchy. The regional claims in Section 4 have been narrowed after source checking; other domains remain subject to a complete citation and extraction audit.
 
 Across all five domains, the evidence for predicting risk is stronger than the evidence for modifying outcomes based on predicted risk. This asymmetry is the most important unresolved gap in the TKA perioperative analgesic literature.
 
@@ -432,7 +408,7 @@ MCID thresholds and PROM responsiveness data are derived from average-risk TKA r
 
 This scoping review mapped evidence for perioperative analgesic strategies across five clinical decision domains in adults undergoing primary TKA, does not retain its earlier original pooling as verified evidence, and characterized evidence gaps relevant to robot-assisted TKA. Sixty sources were included.
 
-The strongest evidence supports ACB over FNB for quadriceps-sparing functional preservation and NSAIDs/COX-2 inhibitors as the highest-evidence adjuvant class. Moderate evidence supports neuraxial preference for PONV reduction and early opioid attenuation, IPACK as a complement to ACB for posterior capsular analgesia, ketamine for opioid-tolerant patients, and dexamethasone as a dual-function analgesic and antiemetic. Low evidence characterizes neuraxial advantage on major morbidity endpoints and IV lidocaine and magnesium as TKA adjuvants. Risk stratification evidence demonstrates strong predictive validity for preoperative opioid use and catastrophizing but weak evidence that pathway modifications improve outcomes in high-risk subgroups. Standard perioperative outcome instruments are inadequately calibrated for high-risk phenotypes, and the outcome measurement literature systematically lacks the patient-anchored validation infrastructure needed to separate instrument failure from treatment failure in stratified populations.
+This draft does not establish a preferred anesthetic or regional strategy. Selected source checks have corrected the regional interpretation, but remaining domains require further audit. Study design, comparator, outcome, timing, and applicability must be assessed separately.
 
 Direct rTKA evidence was not established by the documented search across all five domains. Conclusions regarding rTKA drawn in this review are evidence-gap inferences, not established findings.
 
@@ -474,19 +450,19 @@ Two research priorities emerge from the mapped evidence: controlled trials with 
 
 16. Shah NA, Jain NP. Is continuous adductor canal block better than continuous femoral nerve block after total knee arthroplasty? *J Arthroplasty*. 2014;29(12):2224–2229. PMID 25041873
 
-17. Zhao X, Tong Y, Jiang X, et al. Adductor canal block versus femoral nerve block for total knee arthroplasty: a meta-analysis. *Cochrane Database Syst Rev*. 2017;2:CD012376. PMID 28218404
+17. Schnabel A, Reichl SU, Weibel S, et al. Adductor canal blocks for postoperative pain treatment in adults undergoing knee surgery. *Cochrane Database Syst Rev*. 2019;10:CD012262. doi:10.1002/14651858.CD012262.pub2. PMID 31684698.
 
 18. Jiang J, Teng Y, Fan Z, Khan MS, Cui Z, Xia Y. The efficacy of periarticular multimodal drug injection for postoperative pain management in total knee or hip arthroplasty. *J Arthroplasty*. 2013;28(7):1274–1282. PMID 23910819
 
 19. Zhao X, Qin B, Liang Y, et al. Comparison of adductor canal block and local infiltration analgesia for pain management following total knee arthroplasty. *Reg Anesth Pain Med*. 2019;44(8):817–823. PMID 31374265
 
-20. Hussain N, Ferreri TG, Prusick PJ, et al. Adductor canal block plus IPACK versus adductor canal block alone after total knee arthroplasty: a meta-analysis. *Reg Anesth Pain Med*. 2021;46(10):874–885. PMID 33990436
+20. Hussain N, Brull R, Sheehy B, Dasu M, Weaver T, Abdallah FW. Does the addition of iPACK to adductor canal block in the presence or absence of periarticular local anesthetic infiltration improve analgesic and functional outcomes following total knee arthroplasty? A systematic review and meta-analysis. *Reg Anesth Pain Med*. 2021;46(8):713-721. doi:10.1136/rapm-2021-102705. PMID 33990436.
 
 21. Wang K, Ni S, Li Z, et al. The effects of iPACK block combined with adductor canal block after total knee arthroplasty: a systematic review and meta-analysis. *J Knee Surg*. 2023;36(1):88–97. PMID 34600437
 
 22. Albrecht E, Guyen O, Jacot-Guillarmod A, Kirkham KR. The analgesic efficacy of the IPACK block for analgesia after knee surgery: a systematic review and meta-analysis. *Reg Anesth Pain Med*. 2021;46(7):591–598. PMID 33930796
 
-23. Albrecht E, Kern C, Kirkham KR. A systematic review and meta-analysis of perineural dexamethasone for peripheral nerve blocks. *Anaesthesia*. 2014;69(1):81–90. PMID 25123271
+23. Albrecht E, Kern C, Kirkham KR. A systematic review and meta-analysis of perineural dexamethasone for peripheral nerve blocks. *Anaesthesia*. 2015;70(1):71-83. doi:10.1111/anae.12823. PMID 25123271.
 
 24. Hannon CP, Lund-Hvinden SM, Jain P, et al. Efficacy and safety of perioperative ketamine in hip and knee arthroplasty. *J Arthroplasty*. 2023;38(7S):S38–S46. PMID 36328104
 

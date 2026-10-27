@@ -1,0 +1,12 @@
+{
+  "version": "2026.10-rc1",
+  "method": "ReportLab export from Markdown; not a successful TeX compilation",
+  "documents": [
+    {
+      "source": "George-TKA-Scoping-Review-v2.md",
+      "pdf": "George-TKA-Scoping-Review-v2.pdf",
+      "source_sha256": "f98d6810f6062d41faa9c5e2771155ef753ffd5809fa6f2ad19e01585e2a5ae8",
+      "pdf_sha256": "36ef269ab7726f92997b9be6dcb7ab3aaf4e2b69d01caec7d6a5b7c6fee3a4e4"
+    }
+  ]
+}
