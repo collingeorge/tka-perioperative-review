@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-28",
+  "case_pairs": 6,
+  "synthetic_profiles": 12,
+  "sources": [
+    {
+      "id": "A",
+      "title": "Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. *Regional Anesthesia and Pain Medicine*. 2025. [10.1136/rapm-2024-105766](https://doi.org/10.1136/rapm-2024-105766)",
+      "doi": "10.1136/rapm-2024-105766",
+      "scope": "Drug/dose/route-specific bleeding-risk guidance; no individualized timing supplied here",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "K",
+      "title": "Lavand'homme PM et al. Pain management after total knee arthroplasty: PROSPECT recommendations. *European Journal of Anaesthesiology*. 2022. [10.1097/EJA.0000000000001691](https://doi.org/10.1097/EJA.0000000000001691)",
+      "doi": "10.1097/EJA.0000000000001691",
+      "scope": "Unilateral primary TKA analgesia, not every joint or revision operation",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "M",
+      "title": "Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. *Anaesthesia*. [10.1111/anae.15501](https://doi.org/10.1111/anae.15501)",
+      "doi": "10.1111/anae.15501",
+      "scope": "UK/Ireland monitoring guidance; jurisdiction and setting matter",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "X",
+      "title": "Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. *Regional Anesthesia and Pain Medicine*. 2021. [10.1136/rapm-2020-101986](https://doi.org/10.1136/rapm-2020-101986)",
+      "doi": "10.1136/rapm-2020-101986",
+      "scope": "Published toxicity response resource, not reproduced or replaced by this guide",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "P",
+      "title": "Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725)",
+      "doi": "10.1097/ALN.0000000000003725",
+      "scope": "Randomized evidence against assuming universal safety benefit from avoiding intraoperative opioids; did not test this software",
+      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+    },
+    {
+      "id": "LIDO",
+      "title": "Foo et al. IV lidocaine consensus (2021)",
+      "doi": "10.1111/anae.15270",
+      "scope": "High-risk IV use, ideal-body-weight context and avoidance of overlapping local-anesthetic interventions; not a complete regimen.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "DEX",
+      "title": "Weerink et al. Dexmedetomidine pharmacology review (2017)",
+      "doi": "10.1007/s40262-017-0507-7",
+      "scope": "Dose contexts differ by indication; toy-model values are not validated by this review.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    },
+    {
+      "id": "QOR",
+      "title": "Stark et al. Development and psychometric evaluation of the QoR-15 (2013)",
+      "doi": "10.1097/ALN.0b013e318289b84b",
+      "scope": "Recovery is multidimensional; do not reproduce the questionnaire or interpret a synthetic score as validation.",
+      "checked": "Publisher/PubMed identity and available source text; not an exhaustive full-text appraisal"
+    }
+  ],
+  "cases": [
+    {
+      "id": "TK-01",
+      "topic": "Spinal versus general anesthesia",
+      "sources": [
+        "A",
+        "K",
+        "M"
+      ]
+    },
+    {
+      "id": "TK-02",
+      "topic": "Regional analgesia and background regimen",
+      "sources": [
+        "K",
+        "X"
+      ]
+    },
+    {
+      "id": "TK-03",
+      "topic": "Nonopioid adjuncts are not a mandatory cocktail",
+      "sources": [
+        "K",
+        "P",
+        "LIDO",
+        "DEX"
+      ]
+    },
+    {
+      "id": "TK-04",
+      "topic": "Chronic opioid exposure and rescue",
+      "sources": [
+        "K",
+        "P"
+      ]
+    },
+    {
+      "id": "TK-05",
+      "topic": "Patient-reported outcomes and interpretation",
+      "sources": [
+        "K",
+        "QOR"
+      ]
+    },
+    {
+      "id": "TK-06",
+      "topic": "Recovery and safe communication",
+      "sources": [
+        "M",
+        "K",
+        "X"
+      ]
+    }
+  ],
+  "source_identity_checked": true,
+  "full_text_audit_complete": false,
+  "clinical_validation": false
+}
