@@ -1,5 +1,15 @@
 # TKA perioperative analgesia: narrative educational evidence map
 
+
+## Applied clinical examples — 28 October 2026
+
+- [Topic-specific paired cases](APPLIED_CASES.md): 6 male/female pairs (12 synthetic profiles), with worked applications, options and source maps.
+- [Shared anesthesia options and cases](ANESTHESIA_OPTIONS_AND_CASES.md): the same four-modality guide and 12 general teaching cases used throughout the clinical portfolio.
+- [Example format and verification standard](CASE_EXAMPLE_STANDARD.md), [topic source audit](EXAMPLE_SOURCE_AUDIT.json), and [shared source audit](SHARED_SOURCE_AUDIT.json).
+
+These additions standardize educational reasoning and evidence documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
+
+
 Independent portfolio by Collin Blaine George. Revised 27 October 2026.
 
 This series organizes questions about anesthesia modality, regional analgesia, adjunct medicines, risk factors and outcome measurement. It is a narrative draft. Completed JBI/PRISMA-ScR methods, a verified 60-source inclusion count, estimated screening counts, original pooled findings and submission-ready status are not established and are withdrawn.
