@@ -7,7 +7,7 @@ The key correction concerns the background analgesic regimen: the earlier iPACK 
 
 ## Sources checked
 
-- [Schnabel et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31684698/): Cochrane review of adductor canal blocks.
+- [Schnabel et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31684698/): Cochrane review of adductor canal blocks in adult knee surgery (25 RCTs: 18 TKA, 7 arthroscopic), so not all included trials are TKA.
 - [Hussain et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33990436/): iPACK synthesis stratified by periarticular infiltration.
 - [Albrecht et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25123271/): heterogeneous peripheral-block dexamethasone literature.
 

@@ -15,3 +15,13 @@ Added 6 topic-specific male/female case pairs, a local copy of the shared anesth
 ## 29 October 2026 — Portfolio presentation and reading path
 
 Added a concise reader’s guide, explicit AI-assistance/authorship scope and review-status notes. Linked the portfolio home and corrected navigation wording. This presentation pass preserves substantive manuscripts, casebooks, code and existing exports. Repository visibility is unchanged.
+
+## November 2026 — accuracy and governance review
+
+5 November 2026. Precision fixes from an independent source re-check (no Critical or Major findings):
+
+- Main map and modality note: Johnson et al. 2016 is described as pooling randomized and prospective comparative studies; ICAROS 2019 additionally included retrospective/database observational studies. The ICAROS knee-arthroplasty neuraxial preference is now stated as a weak recommendation on low-level evidence (hip: strong).
+- Adjunct note: PROSPECT 2022 does not recommend ketamine after TKA (conflicting procedure-specific evidence). The 2022 add-on trial is now cited by author, title and journal (Muñoz-Leyva et al., Anesthesiology 2022;137:459-470). The withdrawn PMID 23364596 is described only as not corresponding to a TKA lidocaine trial.
+- Regional note and main map: the Cochrane adductor canal review (Schnabel 2019) is noted to cover adult knee surgery (18 TKA, 7 arthroscopic trials).
+- Applied cases and EXAMPLE_SOURCE_AUDIT.json: TK-02 now cites Hussain et al. 2021 (iPACK) instead of the LAST checklist; the Beloeil (POFA) scope now states it was a major non-cardiac surgery trial, not TKA, replacing text copied from another repository; duplicate DOI links removed; the Smart NOA walkthrough reference is now an explicit link to the separate repository.
+- Main map: title and README now say "selected-source narrative evidence map" (legacy "Scoping-Review" filenames kept for link continuity); reference list rewritten as full citations with printed DOIs/PMIDs; inline cross-document links rendered as plain filenames so the PDF export does not show raw Markdown; "Foo et al.." typo removed. The PDF export is stale until rebuilt.

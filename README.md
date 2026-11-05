@@ -1,4 +1,4 @@
-# TKA perioperative analgesia: narrative educational evidence map
+# TKA perioperative analgesia: selected-source narrative evidence map
 
 > **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 
@@ -20,7 +20,7 @@ This series organizes questions about anesthesia modality, regional analgesia, a
 
 ## Documents
 
-- [Main narrative source](George-TKA-Scoping-Review-v2.md) and [PDF export](George-TKA-Scoping-Review-v2.pdf). The legacy filename is retained for link continuity; it does not describe the current review design.
+- [Main narrative source](George-TKA-Scoping-Review-v2.md) and [PDF export](George-TKA-Scoping-Review-v2.pdf). The legacy "Scoping-Review" filename is retained only for link continuity; the document is a selected-source narrative evidence map, not a scoping or systematic review.
 - [Regional analgesia](01_Regional_Anesthesia_ACB_IPACK.md): selected comparator-specific evidence.
 - [Adjunct analgesia](02_Opioid_Free_Anesthesia_TKA.md): selected checked evidence and withdrawn unsupported claims.
 - [Patient-reported outcomes](03_Patient_Reported_Outcomes_TKA.md), [anesthesia modality](04_Spinal_vs_General_Anesthesia_TKA.md), and [risk stratification](05_Chronic_Pain_Opioid_Risk_Stratification_TKA.md): selected-source educational notes with corrected source identities.
