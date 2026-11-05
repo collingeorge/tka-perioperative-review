@@ -7,23 +7,23 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 2623,
-      "sha256": "374f7abd0f255e23771954bd10e7778a572f0fc8ce998349bd37aab213faaeb0"
+      "bytes": 2913,
+      "sha256": "5ef8a704e8c4df74616919c0c173ccb8f6b27cf606e769dbc9600e49ca78ff0f"
     },
     {
       "path": "APPLIED_CASES.md",
-      "bytes": 11627,
-      "sha256": "e7e153801616b9f4e9f97aac9c79751b48d000cd405968971e96cfaab6ab579d"
+      "bytes": 12473,
+      "sha256": "2e11eaac975ccfb62d9224b2066f90876d76ff5d26647c07b00b7022cf8ef8d5"
     },
     {
       "path": "EXAMPLE_SOURCE_AUDIT.json",
-      "bytes": 4819,
-      "sha256": "1e4a12af8bc99fc2883860ad1e2709d8debecb9c5770da8c4e69e5fdc9a9e31d"
+      "bytes": 5685,
+      "sha256": "1b5ba1b0924dc169ba5ad5d0bf404a752a8d192c33cb1bddc9f6bddbceb76c01"
     },
     {
       "path": "ANESTHESIA_OPTIONS_AND_CASES.md",
-      "bytes": 24999,
-      "sha256": "df94e6f475bacafafb9e9dea7ce3612545b59e7cde18f463f9086e33e398a13c"
+      "bytes": 25383,
+      "sha256": "24dbd38d90c999f924c49a9898e14bca1b5716c225eebc02ebac18e56066b5a3"
     },
     {
       "path": "SHARED_SOURCE_AUDIT.json",
@@ -32,23 +32,23 @@
     },
     {
       "path": "CASE_EXAMPLE_STANDARD.md",
-      "bytes": 2519,
-      "sha256": "82ee781bc5ed0dc9edee2fb607f2a877d3cdc151bf982d072eac9d999c6de93b"
+      "bytes": 2710,
+      "sha256": "48557d603c85bffca81f8abab2a365b92328f79676ebab16bbb1b1a7840c4226"
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 1346,
-      "sha256": "9ca1302ba643fef037bdb6084ec5e4b3c72654d7f6516265398d9dfaed27c462"
+      "bytes": 3247,
+      "sha256": "bb707d9eae2dad2fe6a31fd1d46c341ed2da568536444a8fb451e53c77a59aaa"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 1222,
-      "sha256": "26447658d2af6c98a7731408fcdbbe15f133d7865c3dc0f19f096713d1128078"
+      "bytes": 1413,
+      "sha256": "fa7c2f16146016ce987019fc02a4225ac4e9018c8cf4404d06246953d387617f"
     },
     {
       "path": "AUTHORSHIP_AND_REVIEW.md",
-      "bytes": 2317,
-      "sha256": "ac7a4aa32fed6e06bf46e037efad716e84ccb9fc7f74a363677cfd56f74caa81"
+      "bytes": 2915,
+      "sha256": "cdd856105daf0e2505e7addabe3a08a62869715ebcd440796433be6bcd7c5a8a"
     }
   ],
   "presentation_update": "Reader navigation and authorship documentation; no new clinical validation or substantive manuscript revision"

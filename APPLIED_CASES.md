@@ -1,5 +1,7 @@
 # TKA evidence map: applied cases
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 28 October 2026. Applications across modality, regional strategy, adjuncts, opioid history, outcomes and recovery.
 
 All examples are entirely synthetic, independent of real encounters, charts or shadowing observations. They illustrate source-informed reasoning, not observed administrations, validated treatment plans, standardized drug regimens or clinical competence. Male/female labels are descriptive; any difference in the discussion follows history, procedure and evidence applicability rather than sex alone. Female cases are nonpregnant unless explicitly stated otherwise.
@@ -47,7 +49,7 @@ flowchart TD
 
 **Decision flow:** Document baseline analgesia → compare incremental evidence → assess exposure/function → select and reassess.
 
-**Source map:** [K](#source-registry), [X](#source-registry). The sources support the named concepts, not the existence or validation of these fictional administrations.
+**Source map:** [K](#source-registry), [IPACK](#source-registry). The sources support the named concepts, not the existence or validation of these fictional administrations.
 
 <a id="tk-03"></a>
 ## TK-03 — Nonopioid adjuncts are not a mandatory cocktail
@@ -110,11 +112,12 @@ flowchart TD
 
 | ID | DOI source | Scope / limitation |
 |---|---|---|
-| A | Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. *Regional Anesthesia and Pain Medicine*. 2025. [10.1136/rapm-2024-105766](https://doi.org/10.1136/rapm-2024-105766) — [DOI](https://doi.org/10.1136/rapm-2024-105766) | Drug/dose/route-specific bleeding-risk guidance; no individualized timing supplied here |
-| K | Lavand'homme PM et al. Pain management after total knee arthroplasty: PROSPECT recommendations. *European Journal of Anaesthesiology*. 2022. [10.1097/EJA.0000000000001691](https://doi.org/10.1097/EJA.0000000000001691) — [DOI](https://doi.org/10.1097/EJA.0000000000001691) | Unilateral primary TKA analgesia, not every joint or revision operation |
-| M | Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. *Anaesthesia*. [10.1111/anae.15501](https://doi.org/10.1111/anae.15501) — [DOI](https://doi.org/10.1111/anae.15501) | UK/Ireland monitoring guidance; jurisdiction and setting matter |
-| X | Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. *Regional Anesthesia and Pain Medicine*. 2021. [10.1136/rapm-2020-101986](https://doi.org/10.1136/rapm-2020-101986) — [DOI](https://doi.org/10.1136/rapm-2020-101986) | Published toxicity response resource, not reproduced or replaced by this guide |
-| P | Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725) — [DOI](https://doi.org/10.1097/ALN.0000000000003725) | Randomized evidence against assuming universal safety benefit from avoiding intraoperative opioids; did not test this software |
+| A | Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. *Regional Anesthesia and Pain Medicine*. 2025. [DOI 10.1136/rapm-2024-105766](https://doi.org/10.1136/rapm-2024-105766) | Drug/dose/route-specific bleeding-risk guidance; no individualized timing supplied here |
+| K | Lavand'homme PM et al. Pain management after total knee arthroplasty: PROSPECT recommendations. *European Journal of Anaesthesiology*. 2022. [DOI 10.1097/EJA.0000000000001691](https://doi.org/10.1097/EJA.0000000000001691) | Unilateral primary TKA analgesia, not every joint or revision operation |
+| M | Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. *Anaesthesia*. [DOI 10.1111/anae.15501](https://doi.org/10.1111/anae.15501) | UK/Ireland monitoring guidance; jurisdiction and setting matter |
+| X | Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. *Regional Anesthesia and Pain Medicine*. 2021. [DOI 10.1136/rapm-2020-101986](https://doi.org/10.1136/rapm-2020-101986) | Published toxicity response resource, not reproduced or replaced by this guide |
+| IPACK | Hussain N, Brull R, et al. Does the addition of iPACK to adductor canal block in the presence or absence of periarticular local anesthetic infiltration improve analgesic and functional outcomes following total knee arthroplasty? A systematic review and meta-analysis. *Regional Anesthesia and Pain Medicine*. 2021;46(8):713-721. [DOI 10.1136/rapm-2021-102705](https://doi.org/10.1136/rapm-2021-102705) (PMID 33990436) | iPACK added no benefit when periarticular infiltration was used; without infiltration, pain and function improved but opioid consumption did not fall. Not a technique guide. |
+| P | Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [DOI 10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725) | Major non-cardiac surgery (not a TKA trial); dexmedetomidine-based opioid-free anesthesia was associated with more hypoxemia and bradycardia, so avoiding intraoperative opioids is not assumed to be safer |
 | LIDO | Foo et al. IV lidocaine consensus (2021) — [DOI](https://doi.org/10.1111/anae.15270) | High-risk IV use, ideal-body-weight context and avoidance of overlapping local-anesthetic interventions; not a complete regimen. |
 | DEX | Weerink et al. Dexmedetomidine pharmacology review (2017) — [DOI](https://doi.org/10.1007/s40262-017-0507-7) | Dose contexts differ by indication; toy-model values are not validated by this review. |
 | QOR | Stark et al. Development and psychometric evaluation of the QoR-15 (2013) — [DOI](https://doi.org/10.1097/ALN.0b013e318289b84b) | Recovery is multidimensional; do not reproduce the questionnaire or interpret a synthetic score as validation. |
@@ -123,4 +126,4 @@ flowchart TD
 
 ## Administration and dosing boundary
 
-These incomplete profiles do not select an individual dose, block injection, reversal dose or pump setting. Source dose context and transparent arithmetic are available in the shared guide and its linked Smart NOA walkthrough; clinical route, preparation, weight metric, organ function and monitoring determine applicability. The absence of a contraindication in a short case is not clinical clearance. A lower opioid amount or one improved measurement is not a complete recovery benefit.
+These incomplete profiles do not select an individual dose, block injection, reversal dose or pump setting. Source dose context and transparent arithmetic are available in the shared guide and in the separate portfolio repository's [Smart NOA guideline-informed examples](https://github.com/collingeorge/Smart-NOA-Controller/blob/main/GUIDELINE_INFORMED_EXAMPLES.md) (an educational software walkthrough, not part of this evidence map); clinical route, preparation, weight metric, organ function and monitoring determine applicability. The absence of a contraindication in a short case is not clinical clearance. A lower opioid amount or one improved measurement is not a complete recovery benefit.

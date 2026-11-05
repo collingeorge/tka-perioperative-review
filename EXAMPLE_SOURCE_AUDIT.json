@@ -32,10 +32,18 @@
       "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
     },
     {
+      "id": "IPACK",
+      "title": "Hussain N, Brull R, et al. Does the addition of iPACK to adductor canal block in the presence or absence of periarticular local anesthetic infiltration improve analgesic and functional outcomes following total knee arthroplasty? A systematic review and meta-analysis. Regional Anesthesia and Pain Medicine. 2021;46(8):713-721.",
+      "pmid": "33990436",
+      "doi": "10.1136/rapm-2021-102705",
+      "scope": "iPACK added no benefit when periarticular infiltration was used; without infiltration, pain and function improved but opioid consumption did not fall. Not a technique guide.",
+      "checked": "Publisher (rapm.bmj.com) title/volume/pages, article identifier and abstract conclusions; not an exhaustive full-text appraisal"
+    },
+    {
       "id": "P",
       "title": "Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725)",
       "doi": "10.1097/ALN.0000000000003725",
-      "scope": "Randomized evidence against assuming universal safety benefit from avoiding intraoperative opioids; did not test this software",
+      "scope": "Major non-cardiac surgery (not a TKA trial); dexmedetomidine-based opioid-free anesthesia was associated with more hypoxemia and bradycardia, so avoiding intraoperative opioids is not assumed to be safer",
       "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
     },
     {
@@ -75,7 +83,7 @@
       "topic": "Regional analgesia and background regimen",
       "sources": [
         "K",
-        "X"
+        "IPACK"
       ]
     },
     {

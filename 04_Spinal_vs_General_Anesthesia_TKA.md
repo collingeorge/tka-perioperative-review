@@ -1,10 +1,12 @@
 # Anesthesia modality in arthroplasty: comparator and evidence limits
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Independent educational note, revised 27 October 2026. This replaces unverified numerical effects and blanket superiority claims.
 
-[Johnson et al., 2016, PMID 26787787](https://pubmed.ncbi.nlm.nih.gov/26787787/) reviewed prospective comparative hip/knee arthroplasty evidence. It found a modest length-of-stay difference, while several major outcomes showed no statistically detected difference. Mixed operations, older practice and heterogeneity limit direct application to a current individual TKA pathway.
+[Johnson et al., 2016, PMID 26787787](https://pubmed.ncbi.nlm.nih.gov/26787787/) reviewed randomized and prospective comparative hip/knee arthroplasty evidence. It found a modest length-of-stay difference, while several major outcomes showed no statistically detected difference. Mixed operations, older practice and heterogeneity limit direct application to a current individual TKA pathway.
 
-[ICAROS, 2019, PMID 31351590](https://pubmed.ncbi.nlm.nih.gov/31351590/) includes observational as well as randomized evidence and favors neuraxial anesthesia in its consensus recommendations. This broader evidence design is relevant when comparing its conclusions with the earlier prospective-study review. It is not proof of universal causal benefit or a mandate for a particular patient.
+[ICAROS, 2019, PMID 31351590](https://pubmed.ncbi.nlm.nih.gov/31351590/) includes retrospective and database observational studies as well as randomized evidence and favors neuraxial anesthesia in its consensus recommendations. For knee arthroplasty specifically, the preference is a weak recommendation based on low-level evidence; the hip arthroplasty recommendation was strong. This broader evidence design is relevant when comparing its conclusions with the earlier prospective-study review. It is not proof of universal causal benefit or a mandate for a particular patient.
 
 ## Interpretation
 
