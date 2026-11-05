@@ -1,5 +1,7 @@
 # Preoperative risk factors: association and limits
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Independent educational note, revised 27 October 2026. The earlier unverified prevalence estimates, fixed dose thresholds, screening performance and causal claims are withdrawn.
 
 [Goesling et al., 2016, PMID 26871536](https://pubmed.ncbi.nlm.nih.gov/26871536/) prospectively followed a mixed TKA/THA cohort for six months. Preoperative opioid use and other pain-related observations were associated with later opioid use. This does not establish that opioids caused every poor outcome, validate a universal dose threshold, or show that an intraoperative opioid-free regimen prevents persistent use.

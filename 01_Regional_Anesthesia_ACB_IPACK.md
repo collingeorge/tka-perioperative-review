@@ -1,7 +1,6 @@
 # Regional analgesia in TKA: corrected evidence-reading note
 
-> Educational review candidate. This is not a technique guide, dosing protocol, or evidence of clinical competence.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 The prior companion review's numerical trial summaries and broad non-inferiority claims have not been substantiated in this audit and are not retained as verified results. See the corrected regional section of [the main draft](George-TKA-Scoping-Review-v2.md).
 
 The key correction concerns the background analgesic regimen: the earlier iPACK discussion reversed the role of periarticular infiltration in the cited synthesis. The cited synthesis found no added benefit when periarticular infiltration was already used. Without it, pain/function findings improved but opioid consumption did not. These findings should not be generalized across regimens, outcomes, or surgical platforms. Similar observed outcomes do not establish equivalence without the appropriate design and margin.

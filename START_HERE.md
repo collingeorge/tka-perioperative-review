@@ -1,5 +1,7 @@
 # TKA perioperative analgesia — reader’s guide
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Updated 29 October 2026. A narrative evidence map with regional anesthesia, recovery and synthetic case material.
 
 ## Read in this order

@@ -1,5 +1,7 @@
 # Measuring outcomes after TKA
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Independent educational note, revised 27 October 2026. The former numerical MCID, responsiveness and universal recovery-timeline claims are withdrawn pending source-level reconstruction.
 
 ## Match the measure to the question

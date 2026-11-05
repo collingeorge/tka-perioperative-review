@@ -1,5 +1,7 @@
 # Anesthesia modality in arthroplasty: comparator and evidence limits
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Independent educational note, revised 27 October 2026. This replaces unverified numerical effects and blanket superiority claims.
 
 [Johnson et al., 2016, PMID 26787787](https://pubmed.ncbi.nlm.nih.gov/26787787/) reviewed prospective comparative hip/knee arthroplasty evidence. It found a modest length-of-stay difference, while several major outcomes showed no statistically detected difference. Mixed operations, older practice and heterogeneity limit direct application to a current individual TKA pathway.

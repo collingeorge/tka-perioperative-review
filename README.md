@@ -1,6 +1,8 @@
 # TKA perioperative analgesia: narrative educational evidence map
 
-[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
+[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Disclaimer](DISCLAIMER.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
 
 
 ## Applied clinical examples — 28 October 2026
@@ -12,7 +14,7 @@
 These additions use a consistent educational format and source documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
 
 
-Independent portfolio by Collin Blaine George. Revised 27 October 2026.
+Independent portfolio by Collin B. George. Revised 27 October 2026.
 
 This series organizes questions about anesthesia modality, regional analgesia, adjunct medicines, risk factors and outcome measurement. It is a narrative draft. Completed JBI/PRISMA-ScR methods, a verified 60-source inclusion count, estimated screening counts, original pooled findings and submission-ready status are not established and are withdrawn.
 

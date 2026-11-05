@@ -1,5 +1,7 @@
 # TKA adjunct analgesia: selected evidence and interpretation
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 **Independent educational portfolio. Revised 27 October 2026.** This note replaces the earlier dose-based opioid-free pathway discussion after source inconsistencies were identified. It is a selected-source analysis, not a clinical pathway, systematic review, or validated device input.
 
 ## Define the comparison

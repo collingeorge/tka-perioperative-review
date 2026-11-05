@@ -1,6 +1,8 @@
 # Perioperative analgesia in TKA: a selected-source educational evidence map
 
-Collin Blaine George | Independent educational portfolio | Revised 27 October 2026
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
+Collin B. George | Independent educational portfolio | Revised 27 October 2026
 
 ## Abstract
 
