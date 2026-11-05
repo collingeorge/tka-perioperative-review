@@ -1,12 +1,12 @@
 {
-  "version": "2026.10-rc2",
-  "method": "Direct ReportLab export from named Markdown; TeX compilation not asserted",
+  "version": "2026.11",
+  "method": "November 2026 rebuild: pandoc (GFM -> HTML5) then Chromium print-to-PDF via Playwright, from the named Markdown source. Earlier exports used a ReportLab script not included in the repository.",
   "documents": [
     {
       "source": "tka-perioperative-review/George-TKA-Scoping-Review-v2.md",
       "pdf": "tka-perioperative-review/George-TKA-Scoping-Review-v2.pdf",
-      "source_sha256": "b57259c269af3f26eaf2d719c362ab52fa513120e753e6d1f5fc675c956d60c1",
-      "pdf_sha256": "79bb496c9bcac07506f97577b21db0b1138b445703863e90de8966aa233da5a0"
+      "source_sha256": "01f4383f2d858fb8d478f2e44382ea14b01a60221f4522fd23fdb0ffd731f05d",
+      "pdf_sha256": "607545c19ea74e1dff9774360d01197e80079d6d021042e9d260fb433e7083f2"
     }
   ]
 }
